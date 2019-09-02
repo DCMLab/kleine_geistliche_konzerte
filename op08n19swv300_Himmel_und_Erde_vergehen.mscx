@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>3543170</programRevision>
+  <programRevision>4592407</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -71,10 +71,6 @@
       <Page>
         <System>
           </System>
-        <System>
-          </System>
-        <System>
-          </System>
         </Page>
       </PageList>
     <Part>
@@ -141,21 +137,6 @@
     <Staff id="1">
       <VBox>
         <height>6</height>
-        <Text>
-          <style>Lyricist</style>
-          <size>7</size>
-          <text>James Gibb editions</text>
-          </Text>
-        <Text>
-          <style>Title</style>
-          <size>8</size>
-          <text>#</text>
-          </Text>
-        <Text>
-          <style>Lyricist</style>
-          <size>7</size>
-          <text>Himmel und Erde vergehen - Schütz</text>
-          </Text>
         </VBox>
       <Measure number="1">
         <Clef>
@@ -167,11 +148,11 @@
           </KeySig>
         <TimeSig>
           <sigN>4</sigN>
-          <sigD>2</sigD>
+          <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
-          <pos x="32.125" y="-6.65625"/>
+          <pos x="36.8805" y="-14.9085"/>
           <halign>center</halign>
           <valign>baseline</valign>
           <xoffset>0</xoffset>
@@ -181,7 +162,7 @@
           <text>Himmel und Erde vergehen, SWV 300</text>
           </StaffText>
         <StaffText>
-          <pos x="80.9688" y="-5.78125"/>
+          <pos x="91.319" y="-16.4112"/>
           <halign>center</halign>
           <valign>baseline</valign>
           <xoffset>0</xoffset>
@@ -192,7 +173,7 @@
 (1585-1672)</text>
           </StaffText>
         <StaffText>
-          <pos x="-23.875" y="-4.59375"/>
+          <pos x="-20.2384" y="-14.1048"/>
           <valign>baseline</valign>
           <xoffset>0</xoffset>
           <yoffset>2</yoffset>
@@ -200,6 +181,9 @@
           <size>11</size>
           <text>Luke 21:33</text>
           </StaffText>
+        <Harmony>
+          <name>.g.i</name>
+          </Harmony>
         <Chord>
           <durationType>whole</durationType>
           <Lyrics>
@@ -211,6 +195,11 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="2">
+        <Harmony>
+          <name>V6-#viio</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -224,6 +213,9 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -238,7 +230,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="2">
+      <Measure number="3">
+        <Harmony>
+          <name>VI-iv6</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -253,6 +248,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>iv</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -263,6 +261,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -274,6 +275,11 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="4">
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -286,6 +292,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -297,19 +306,40 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="3">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure number="5">
+        <Harmony>
+          <name>VI-iv6</name>
+          </Harmony>
         <Rest>
-          <durationType>breve</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
+        <tick>8640</tick>
+        <Harmony>
+          <name>iv</name>
+          </Harmony>
+        <tick>9120</tick>
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         </Measure>
-      <Measure number="4">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="6">
+        <Harmony>
+          <name>V</name>
+          </Harmony>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        <tick>10560</tick>
+        <Harmony>
+          <name>i</name>
+          </Harmony>
+        </Measure>
+      <Measure number="7">
+        <Harmony>
+          <name>IV/III</name>
+          </Harmony>
         <Chord>
           <durationType>whole</durationType>
           <Lyrics>
@@ -321,6 +351,19 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <tick>12480</tick>
+        <Harmony>
+          <name>III6</name>
+          </Harmony>
+        <tick>12960</tick>
+        <Harmony>
+          <name>III</name>
+          </Harmony>
+        </Measure>
+      <Measure number="8">
+        <Harmony>
+          <name>V/III</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -331,6 +374,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>III</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -345,7 +391,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="5">
+      <Measure number="9">
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -357,6 +406,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV/III</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -370,6 +422,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>III</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -381,6 +436,11 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="10">
+        <Harmony>
+          <name>V/III</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -392,6 +452,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>III</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -403,13 +466,16 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="6">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure number="11">
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        <Harmony>
+          <name>IV/III</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -421,6 +487,15 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <tick>20640</tick>
+        <Harmony>
+          <name>III</name>
+          </Harmony>
+        </Measure>
+      <Measure number="12">
+        <Harmony>
+          <name>V/III</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -432,6 +507,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>III\\</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -443,14 +521,17 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="7">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="13">
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
+        <tick>24000</tick>
+        <Harmony>
+          <name>v</name>
+          </Harmony>
+        </Measure>
+      <Measure number="14">
         <Chord>
           <durationType>whole</durationType>
           <Lyrics>
@@ -462,8 +543,12 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <tick>25920</tick>
+        <Harmony>
+          <name>V6/v</name>
+          </Harmony>
         </Measure>
-      <Measure number="8">
+      <Measure number="15">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -474,6 +559,9 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>v</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -487,6 +575,11 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="16">
+        <Harmony>
+          <name>VI/v</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -498,6 +591,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>iv/v</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -508,6 +604,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>v</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -520,10 +619,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="9">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure number="17">
+        <Harmony>
+          <name>V/v</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -538,6 +637,9 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V\\</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -548,9 +650,14 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="18">
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -563,11 +670,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="10">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="19">
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -579,6 +685,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>i\\</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -589,44 +698,106 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="20">
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="11">
+      <Measure number="21">
+        <Harmony>
+          <name>V/III</name>
+          </Harmony>
         <Rest>
-          <durationType>breve</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="12">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure number="22">
+        <Harmony>
+          <name>III</name>
+          </Harmony>
         <Rest>
-          <durationType>breve</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="13">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="23">
+        <Harmony>
+          <name>V/III</name>
+          </Harmony>
         <Rest>
-          <durationType>breve</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="14">
+      <Measure number="24">
+        <Harmony>
+          <name>v</name>
+          </Harmony>
         <Rest>
-          <durationType>breve</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        <tick>45600</tick>
+        <Harmony>
+          <name>i</name>
+          </Harmony>
+        </Measure>
+      <Measure number="25">
+        <Harmony>
+          <name>v</name>
+          </Harmony>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="15">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure number="26">
+        <Harmony>
+          <name>V/VII</name>
+          </Harmony>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
+        </Measure>
+      <Measure number="27">
+        <Harmony>
+          <name>VII</name>
+          </Harmony>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="28">
+        <Harmony>
+          <name>III</name>
+          </Harmony>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="29">
+        <Harmony>
+          <name>i</name>
+          </Harmony>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        <tick>55200</tick>
+        <Harmony>
+          <name>iv</name>
+          </Harmony>
+        </Measure>
+      <Measure number="30">
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -652,11 +823,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="16">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="31">
+        <Harmony>
+          <name>V/III</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -678,6 +848,11 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="32">
+        <Harmony>
+          <name>III</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -703,7 +878,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="17">
+      <Measure number="33">
+        <Harmony>
+          <name>V/III</name>
+          </Harmony>
         <Slur id="2">
           <track>0</track>
           </Slur>
@@ -788,6 +966,11 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="34">
+        <Harmony>
+          <name>v</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -837,6 +1020,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -848,10 +1034,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="18">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure number="35">
+        <Harmony>
+          <name>v</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -866,24 +1052,42 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        </Measure>
+      <Measure number="36">
+        <Harmony>
+          <name>III</name>
+          </Harmony>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        <tick>68640</tick>
+        <Harmony>
+          <name>IV/III</name>
+          </Harmony>
+        </Measure>
+      <Measure number="37">
+        <Harmony>
+          <name>III</name>
+          </Harmony>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="19">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        <Rest>
-          <durationType>whole</durationType>
-          </Rest>
+      <Measure number="38">
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Rest>
           <durationType>half</durationType>
           </Rest>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Harmony>
+          <name>iv</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -896,7 +1100,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="20">
+      <Measure number="39">
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Slur id="3">
           <track>0</track>
           </Slur>
@@ -961,6 +1168,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>iv</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -981,6 +1191,8 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="40">
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1043,10 +1255,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="21">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure number="41">
+        <Harmony>
+          <name>I\\</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1060,6 +1272,11 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        </Measure>
+      <Measure number="42">
+        <Harmony>
+          <name>IV/III</name>
+          </Harmony>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -1074,6 +1291,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>vi/III</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -1085,11 +1305,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="22">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="43">
+        <Harmony>
+          <name>V/III</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1111,6 +1330,11 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="44">
+        <Harmony>
+          <name>III</name>
+          </Harmony>
         <Chord>
           <durationType>whole</durationType>
           <Lyrics>
@@ -1122,16 +1346,28 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="23">
+      <Measure number="45">
+        <Harmony>
+          <name>V/III</name>
+          </Harmony>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
+        </Measure>
+      <Measure number="46">
+        <Harmony>
+          <name>v</name>
+          </Harmony>
         <Rest>
           <durationType>half</durationType>
           </Rest>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Harmony>
+          <name>III</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -1143,10 +1379,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="24">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure number="47">
+        <Harmony>
+          <name>V/III</name>
+          </Harmony>
         <Slur id="4">
           <track>0</track>
           </Slur>
@@ -1231,6 +1467,11 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="48">
+        <Harmony>
+          <name>III</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1279,6 +1520,9 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -1290,11 +1534,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="25">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="49">
+        <Harmony>
+          <name>V(4)</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1305,6 +1548,11 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <tick>92640</tick>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
+        <tick>93120</tick>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -1323,6 +1571,11 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="50">
+        <Harmony>
+          <name>VI</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1346,6 +1599,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1366,6 +1622,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>VI</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1386,6 +1645,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>iv</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1407,7 +1669,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="26">
+      <Measure number="51">
+        <Harmony>
+          <name>VII6</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Slur type="stop" id="5"/>
@@ -1416,6 +1681,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>VII</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -1429,9 +1697,26 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        <tick>97440</tick>
+        <Harmony>
+          <name>v</name>
+          </Harmony>
+        </Measure>
+      <Measure number="52">
+        <Harmony>
+          <name>III</name>
+          </Harmony>
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        <tick>98400</tick>
+        <Harmony>
+          <name>III6</name>
+          </Harmony>
+        <tick>98880</tick>
+        <Harmony>
+          <name>III</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1443,8 +1728,15 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <tick>99360</tick>
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         </Measure>
-      <Measure number="27">
+      <Measure number="53">
+        <Harmony>
+          <name>V(4)</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1456,6 +1748,11 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <tick>100320</tick>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
+        <tick>100800</tick>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1466,25 +1763,33 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="54">
+        <Harmony>
+          <name>i-I\\</name>
+          </Harmony>
         <Chord>
-          <durationType>breve</durationType>
+          <durationType>whole</durationType>
           <Lyrics>
             <text>nicht.</text>
             </Lyrics>
           <Note>
+            <Tie id="6">
+              </Tie>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="28" len="1/1">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <Rest>
+      <Measure number="55">
+        <Chord>
           <durationType>whole</durationType>
-          </Rest>
-        <tick>105600</tick>
+          <Note>
+            <endSpanner id="6"/>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -1502,14 +1807,21 @@
           </KeySig>
         <TimeSig>
           <sigN>4</sigN>
-          <sigD>2</sigD>
+          <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Rest>
-          <durationType>breve</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
       <Measure number="2">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="3">
         <Chord>
           <durationType>whole</durationType>
           <Lyrics>
@@ -1521,6 +1833,8 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="4">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1548,7 +1862,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="3">
+      <Measure number="5">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1584,6 +1898,8 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="6">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1607,17 +1923,19 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="4">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="7">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="4" n="2"/>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="5">
+      <Measure number="8">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="9">
         <Chord>
           <durationType>whole</durationType>
           <Lyrics>
@@ -1629,6 +1947,8 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="10">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1653,7 +1973,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="6">
+      <Measure number="11">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1689,6 +2009,8 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="12">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1711,21 +2033,29 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="7">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="13">
         <Rest>
           <durationType>half</durationType>
           </Rest>
         <Chord>
-          <durationType>whole</durationType>
+          <durationType>half</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
             <text>Him</text>
             </Lyrics>
           <Note>
+            <Tie id="7">
+              </Tie>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="14">
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <endSpanner id="7"/>
             <pitch>53</pitch>
             <tpc>13</tpc>
             </Note>
@@ -1741,7 +2071,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="8">
+      <Measure number="15">
         <Rest>
           <durationType>half</durationType>
           </Rest>
@@ -1755,6 +2085,8 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="16">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1787,7 +2119,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="9">
+      <Measure number="17">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1812,6 +2144,8 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="18">
         <Rest>
           <durationType>half</durationType>
           </Rest>
@@ -1827,11 +2161,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="10">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="19">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1856,25 +2186,38 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="20">
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="11">
+      <Measure number="21">
         <Rest>
-          <durationType>breve</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="12">
+      <Measure number="22">
         <Rest>
-          <durationType>breve</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="13">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="23">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="24">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="25">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -1901,6 +2244,8 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="26">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1923,7 +2268,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="14">
+      <Measure number="27">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1948,7 +2293,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Slur id="6">
+        </Measure>
+      <Measure number="28">
+        <Slur id="8">
           <track>4</track>
           </Slur>
         <Chord>
@@ -1956,7 +2303,7 @@
           <Lyrics>
             <text>ge-</text>
             </Lyrics>
-          <Slur type="start" id="6"/>
+          <Slur type="start" id="8"/>
           <Note>
             <pitch>50</pitch>
             <tpc>16</tpc>
@@ -2033,7 +2380,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="15">
+      <Measure number="29">
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2076,7 +2423,7 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="6"/>
+          <Slur type="stop" id="8"/>
           <Note>
             <pitch>43</pitch>
             <tpc>15</tpc>
@@ -2092,6 +2439,8 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="30">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -2106,19 +2455,25 @@
           <durationType>half</durationType>
           </Rest>
         </Measure>
-      <Measure number="16">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="31">
         <Rest>
-          <durationType>breve</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="17">
+      <Measure number="32">
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
+        </Measure>
+      <Measure number="33">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="34">
         <Rest>
           <durationType>half</durationType>
           </Rest>
@@ -2137,8 +2492,8 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="18">
-        <Slur id="7">
+      <Measure number="35">
+        <Slur id="9">
           <track>4</track>
           </Slur>
         <Chord>
@@ -2146,7 +2501,7 @@
           <Lyrics>
             <text>ge-</text>
             </Lyrics>
-          <Slur type="start" id="7"/>
+          <Slur type="start" id="9"/>
           <Note>
             <pitch>53</pitch>
             <tpc>13</tpc>
@@ -2222,6 +2577,8 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="36">
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2264,7 +2621,7 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="7"/>
+          <Slur type="stop" id="9"/>
           <Note>
             <pitch>46</pitch>
             <tpc>12</tpc>
@@ -2284,11 +2641,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="19">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="37">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -2302,6 +2655,8 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        </Measure>
+      <Measure number="38">
         <Rest>
           <durationType>half</durationType>
           </Rest>
@@ -2323,8 +2678,8 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="20">
-        <Slur id="8">
+      <Measure number="39">
+        <Slur id="10">
           <track>4</track>
           </Slur>
         <Chord>
@@ -2332,7 +2687,7 @@
           <Lyrics>
             <text>ge-</text>
             </Lyrics>
-          <Slur type="start" id="8"/>
+          <Slur type="start" id="10"/>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -2411,6 +2766,8 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="40">
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2437,6 +2794,9 @@
             <text></text>
             </Lyrics>
           <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
@@ -2454,7 +2814,7 @@
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="8"/>
+          <Slur type="stop" id="10"/>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -2471,7 +2831,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="21">
+      <Measure number="41">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -2488,6 +2848,8 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        </Measure>
+      <Measure number="42">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -2508,19 +2870,12 @@
             <text>ber</text>
             </Lyrics>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="22">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="43">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -2542,6 +2897,8 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="44">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -2567,8 +2924,8 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="23">
-        <Slur id="9">
+      <Measure number="45">
+        <Slur id="11">
           <track>4</track>
           </Slur>
         <Chord>
@@ -2576,7 +2933,7 @@
           <Lyrics>
             <text>ge-</text>
             </Lyrics>
-          <Slur type="start" id="9"/>
+          <Slur type="start" id="11"/>
           <Note>
             <pitch>57</pitch>
             <tpc>17</tpc>
@@ -2652,6 +3009,8 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="46">
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2694,7 +3053,7 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="9"/>
+          <Slur type="stop" id="11"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>50</pitch>
@@ -2712,7 +3071,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="24">
+      <Measure number="47">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -2726,6 +3085,8 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        </Measure>
+      <Measure number="48">
         <Rest>
           <durationType>half</durationType>
           </Rest>
@@ -2741,11 +3102,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="25">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="49">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -2767,6 +3124,8 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="50">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -2792,591 +3151,9 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="26">
-        <Slur id="10">
-          <track>4</track>
-          </Slur>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>ge-</text>
-            </Lyrics>
-          <Slur type="start" id="10"/>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <dots>1</dots>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
-          <Note>
-            <Tie id="11">
-              </Tie>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="27">
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
-          <Note>
-            <endSpanner id="11"/>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text></text>
-            </Lyrics>
-          <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Slur type="stop" id="10"/>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <text>hen</text>
-            </Lyrics>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>breve</durationType>
-          <Lyrics>
-            <text>nicht.</text>
-            </Lyrics>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="28" len="1/1">
-        <Rest>
-          <durationType>whole</durationType>
-          </Rest>
-        <tick>105600</tick>
-        <BarLine>
-          <subtype>end</subtype>
-          <span>1</span>
-          </BarLine>
-        </Measure>
-      </Staff>
-    <Staff id="3">
-      <Measure number="1">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        <KeySig>
-          <accidental>-1</accidental>
-          </KeySig>
-        <TimeSig>
-          <sigN>4</sigN>
-          <sigD>2</sigD>
-          <showCourtesySig>1</showCourtesySig>
-          </TimeSig>
-        <Rest>
-          <durationType>breve</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="2">
-        <Rest>
-          <durationType>breve</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="3">
-        <Chord>
-          <durationType>whole</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>Him</text>
-            </Lyrics>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <text>mel</text>
-            </Lyrics>
-          <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <text>und</text>
-            </Lyrics>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="4">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>Er</text>
-            </Lyrics>
-          <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
-            <pitch>51</pitch>
-            <tpc>11</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <text>de</text>
-            </Lyrics>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ver</text>
-            </Lyrics>
-          <Note>
-            <pitch>46</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ge</text>
-            </Lyrics>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <text>hen,</text>
-            </Lyrics>
-          <Note>
-            <pitch>46</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="5">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="2"/>
-          </Rest>
-        </Measure>
-      <Measure number="6">
-        <Rest>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ver</text>
-            </Lyrics>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ge</text>
-            </Lyrics>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <text>hen,</text>
-            </Lyrics>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="7">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        <Rest>
-          <durationType>half</durationType>
-          </Rest>
-        <Chord>
-          <durationType>whole</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>Him</text>
-            </Lyrics>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <text>mel</text>
-            </Lyrics>
-          <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>49</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="8">
-        <Rest>
-          <durationType>half</durationType>
-          </Rest>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <text>und</text>
-            </Lyrics>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>Er</text>
-            </Lyrics>
-          <Note>
-            <pitch>46</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <text>de</text>
-            </Lyrics>
-          <Note>
-            <pitch>43</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ver</text>
-            </Lyrics>
-          <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="9">
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ge</text>
-            </Lyrics>
-          <Note>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <text>hen,</text>
-            </Lyrics>
-          <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>half</durationType>
-          </Rest>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ver</text>
-            </Lyrics>
-          <Note>
-            <pitch>43</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="10">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ge</text>
-            </Lyrics>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <text>hen,</text>
-            </Lyrics>
-          <Note>
-            <pitch>43</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>a</text>
-            </Lyrics>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <text>ber</text>
-            </Lyrics>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="11">
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>mei</text>
-            </Lyrics>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <text>ne</text>
-            </Lyrics>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Lyrics>
-            <text>Wort</text>
-            </Lyrics>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>ver</text>
-            </Lyrics>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="12">
+      <Measure number="51">
         <Slur id="12">
-          <track>8</track>
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
@@ -3459,6 +3236,634 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="52">
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text></text>
+            </Lyrics>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text></text>
+            </Lyrics>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text></text>
+            </Lyrics>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text></text>
+            </Lyrics>
+          <Note>
+            <Tie id="13">
+              </Tie>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="53">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text></text>
+            </Lyrics>
+          <Note>
+            <endSpanner id="13"/>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text></text>
+            </Lyrics>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Slur type="stop" id="12"/>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>hen</text>
+            </Lyrics>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="54">
+        <Chord>
+          <durationType>whole</durationType>
+          <Lyrics>
+            <text>nicht.</text>
+            </Lyrics>
+          <Note>
+            <Tie id="14">
+              </Tie>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="55">
+        <Chord>
+          <durationType>whole</durationType>
+          <Note>
+            <endSpanner id="14"/>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      </Staff>
+    <Staff id="3">
+      <Measure number="1">
+        <Clef>
+          <concertClefType>F</concertClefType>
+          <transposingClefType>F</transposingClefType>
+          </Clef>
+        <KeySig>
+          <accidental>-1</accidental>
+          </KeySig>
+        <TimeSig>
+          <sigN>4</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="2">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="3">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="4">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="5">
+        <Chord>
+          <durationType>whole</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>Him</text>
+            </Lyrics>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>mel</text>
+            </Lyrics>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>und</text>
+            </Lyrics>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>Er</text>
+            </Lyrics>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>51</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>de</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>ver</text>
+            </Lyrics>
+          <Note>
+            <pitch>46</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>ge</text>
+            </Lyrics>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>hen,</text>
+            </Lyrics>
+          <Note>
+            <pitch>46</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="9">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="10">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="11">
+        <Rest>
+          <durationType>half</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>ver</text>
+            </Lyrics>
+          <Note>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="12">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>ge</text>
+            </Lyrics>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>hen,</text>
+            </Lyrics>
+          <Note>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="13">
+        <Rest>
+          <durationType>half</durationType>
+          </Rest>
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>Him</text>
+            </Lyrics>
+          <Note>
+            <Tie id="15">
+              </Tie>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="14">
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <endSpanner id="15"/>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>mel</text>
+            </Lyrics>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <Rest>
+          <durationType>half</durationType>
+          </Rest>
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>und</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="16">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>Er</text>
+            </Lyrics>
+          <Note>
+            <pitch>46</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>de</text>
+            </Lyrics>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>ver</text>
+            </Lyrics>
+          <Note>
+            <pitch>38</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="17">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>ge</text>
+            </Lyrics>
+          <Note>
+            <pitch>45</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>hen,</text>
+            </Lyrics>
+          <Note>
+            <pitch>38</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="18">
+        <Rest>
+          <durationType>half</durationType>
+          </Rest>
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>ver</text>
+            </Lyrics>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="19">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>ge</text>
+            </Lyrics>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>hen,</text>
+            </Lyrics>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="20">
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>a</text>
+            </Lyrics>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text>ber</text>
+            </Lyrics>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="21">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>mei</text>
+            </Lyrics>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>ne</text>
+            </Lyrics>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="22">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text>Wort</text>
+            </Lyrics>
+          <Note>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>ver</text>
+            </Lyrics>
+          <Note>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="23">
+        <Slur id="16">
+          <track>8</track>
+          </Slur>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>ge-</text>
+            </Lyrics>
+          <Slur type="start" id="16"/>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text></text>
+            </Lyrics>
+          <Note>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text></text>
+            </Lyrics>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text></text>
+            </Lyrics>
+          <Note>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text></text>
+            </Lyrics>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text></text>
+            </Lyrics>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text></text>
+            </Lyrics>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text></text>
+            </Lyrics>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="24">
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3501,7 +3906,7 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="12"/>
+          <Slur type="stop" id="16"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>50</pitch>
@@ -3519,11 +3924,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="13">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="25">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -3538,38 +3939,68 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        </Measure>
+      <Measure number="26">
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="14">
+      <Measure number="27">
         <Rest>
-          <durationType>breve</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="15">
+      <Measure number="28">
         <Rest>
-          <durationType>breve</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="16">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="29">
         <Rest>
-          <durationType>breve</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="17">
+      <Measure number="30">
         <Rest>
-          <durationType>breve</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="18">
+      <Measure number="31">
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
+        </Measure>
+      <Measure number="32">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="33">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="34">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="35">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="36">
         <Rest>
           <durationType>half</durationType>
           </Rest>
@@ -3591,12 +4022,8 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="19">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        <Slur id="13">
+      <Measure number="37">
+        <Slur id="17">
           <track>8</track>
           </Slur>
         <Chord>
@@ -3604,7 +4031,7 @@
           <Lyrics>
             <text>ge-</text>
             </Lyrics>
-          <Slur type="start" id="13"/>
+          <Slur type="start" id="17"/>
           <Note>
             <pitch>50</pitch>
             <tpc>16</tpc>
@@ -3680,6 +4107,8 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="38">
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3722,7 +4151,7 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="13"/>
+          <Slur type="stop" id="17"/>
           <Note>
             <pitch>43</pitch>
             <tpc>15</tpc>
@@ -3739,7 +4168,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="20">
+      <Measure number="39">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -3753,14 +4182,20 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        </Measure>
+      <Measure number="40">
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
-      <Measure number="21">
+      <Measure number="41">
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
+        </Measure>
+      <Measure number="42">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -3789,11 +4224,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="22">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="43">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -3815,6 +4246,8 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="44">
         <Chord>
           <durationType>whole</durationType>
           <Lyrics>
@@ -3826,10 +4259,13 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="23">
+      <Measure number="45">
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
+        </Measure>
+      <Measure number="46">
         <Rest>
           <durationType>half</durationType>
           </Rest>
@@ -3848,7 +4284,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="24">
+      <Measure number="47">
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3929,6 +4365,8 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="48">
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -3966,19 +4404,15 @@
             <text></text>
             </Lyrics>
           <Note>
-            <Tie id="14">
+            <Tie id="18">
               </Tie>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="25">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        <Slur id="15">
+      <Measure number="49">
+        <Slur id="19">
           <track>8</track>
           </Slur>
         <Chord>
@@ -3986,9 +4420,9 @@
           <Lyrics>
             <text></text>
             </Lyrics>
-          <Slur type="start" id="15"/>
+          <Slur type="start" id="19"/>
           <Note>
-            <endSpanner id="14"/>
+            <endSpanner id="18"/>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
@@ -4023,12 +4457,14 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="50">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
             <text>nicht,</text>
             </Lyrics>
-          <Slur type="stop" id="15"/>
+          <Slur type="stop" id="19"/>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -4052,8 +4488,8 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="26">
-        <Slur id="16">
+      <Measure number="51">
+        <Slur id="20">
           <track>8</track>
           </Slur>
         <Chord>
@@ -4061,7 +4497,7 @@
           <Lyrics>
             <text>ge-</text>
             </Lyrics>
-          <Slur type="start" id="16"/>
+          <Slur type="start" id="20"/>
           <Note>
             <pitch>53</pitch>
             <tpc>13</tpc>
@@ -4137,6 +4573,8 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="52">
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -4208,10 +4646,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="27">
+      <Measure number="53">
         <Chord>
           <durationType>half</durationType>
-          <Slur type="stop" id="16"/>
+          <Slur type="stop" id="20"/>
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>50</pitch>
@@ -4229,22 +4667,30 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="54">
         <Chord>
-          <durationType>breve</durationType>
+          <durationType>whole</durationType>
           <Lyrics>
             <text>nicht.</text>
             </Lyrics>
           <Note>
+            <Tie id="21">
+              </Tie>
             <pitch>43</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="28" len="1/1">
-        <Rest>
+      <Measure number="55">
+        <Chord>
           <durationType>whole</durationType>
-          </Rest>
-        <tick>105600</tick>
+          <Note>
+            <endSpanner id="21"/>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -4262,7 +4708,7 @@
           </KeySig>
         <TimeSig>
           <sigN>4</sigN>
-          <sigD>2</sigD>
+          <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Chord>
@@ -4272,6 +4718,8 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="2">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4286,47 +4734,6 @@
           <durationType>half</durationType>
           <Note>
             <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="2">
-        <Chord>
-          <durationType>half</durationType>
-          <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
-            <pitch>51</pitch>
-            <tpc>11</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Note>
-            <pitch>43</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <StemDirection>up</StemDirection>
-          <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>43</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
@@ -4356,6 +4763,8 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="4">
         <Chord>
           <durationType>half</durationType>
           <StemDirection>up</StemDirection>
@@ -4372,11 +4781,50 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="4">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="5">
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>51</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <Chord>
+          <durationType>half</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4405,6 +4853,8 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="8">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4420,7 +4870,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="5">
+      <Measure number="9">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4445,6 +4895,8 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="10">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4460,7 +4912,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="6">
+      <Measure number="11">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4485,6 +4937,8 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="12">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4500,17 +4954,25 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="7">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="13">
         <Rest>
           <durationType>half</durationType>
           </Rest>
         <Chord>
-          <durationType>whole</durationType>
+          <durationType>half</durationType>
           <Note>
+            <Tie id="22">
+              </Tie>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="14">
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <endSpanner id="22"/>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
@@ -4521,18 +4983,18 @@
             <Accidental>
               <subtype>sharp</subtype>
               </Accidental>
-            <Tie id="17">
+            <Tie id="23">
               </Tie>
             <pitch>49</pitch>
             <tpc>21</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="8">
+      <Measure number="15">
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="17"/>
+            <endSpanner id="23"/>
             <pitch>49</pitch>
             <tpc>21</tpc>
             </Note>
@@ -4545,6 +5007,8 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="16">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4567,7 +5031,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="9">
+      <Measure number="17">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4582,6 +5046,8 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="18">
         <Rest>
           <durationType>half</durationType>
           </Rest>
@@ -4593,11 +5059,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="10">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="19">
         <Chord>
           <durationType>half</durationType>
           <StemDirection>up</StemDirection>
@@ -4613,6 +5075,8 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="20">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -4631,7 +5095,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="11">
+      <Measure number="21">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4646,6 +5110,8 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="22">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4661,7 +5127,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="12">
+      <Measure number="23">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -4677,6 +5143,8 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="24">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -4694,11 +5162,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="13">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="25">
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -4723,6 +5187,8 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="26">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4738,7 +5204,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="14">
+      <Measure number="27">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4753,6 +5219,8 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="28">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -4769,7 +5237,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="15">
+      <Measure number="29">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -4785,6 +5253,8 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="30">
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -4807,11 +5277,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="16">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="31">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4826,6 +5292,8 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="32">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -4841,7 +5309,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="17">
+      <Measure number="33">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -4857,6 +5325,8 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="34">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -4874,7 +5344,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="18">
+      <Measure number="35">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -4891,6 +5361,8 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="36">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -4910,11 +5382,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="19">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="37">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -4930,6 +5398,8 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="38">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -4946,7 +5416,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="20">
+      <Measure number="39">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -4956,8 +5426,20 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           <Note>
+            <Tie id="24">
+              </Tie>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="40">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <endSpanner id="24"/>
             <pitch>48</pitch>
             <tpc>14</tpc>
             </Note>
@@ -4977,7 +5459,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="21">
+      <Measure number="41">
         <StaffText>
           <pos x="-0.84375" y="7"/>
           <valign>baseline</valign>
@@ -4997,6 +5479,8 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        </Measure>
+      <Measure number="42">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -5016,11 +5500,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="22">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="43">
         <Chord>
           <durationType>whole</durationType>
           <Note>
@@ -5028,6 +5508,8 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="44">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -5043,7 +5525,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="23">
+      <Measure number="45">
         <Chord>
           <durationType>whole</durationType>
           <Note>
@@ -5051,6 +5533,8 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="46">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -5068,7 +5552,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="24">
+      <Measure number="47">
         <Chord>
           <durationType>whole</durationType>
           <Note>
@@ -5076,6 +5560,8 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="48">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -5092,18 +5578,14 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="25">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+      <Measure number="49">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
             <text>4</text>
             </Lyrics>
           <Note>
-            <Tie id="18">
+            <Tie id="25">
               </Tie>
             <pitch>50</pitch>
             <tpc>16</tpc>
@@ -5112,11 +5594,13 @@
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="18"/>
+            <endSpanner id="25"/>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="50">
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -5149,7 +5633,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="26">
+      <Measure number="51">
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -5181,6 +5665,8 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="52">
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -5211,14 +5697,14 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="27">
+      <Measure number="53">
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
             <text>4</text>
             </Lyrics>
           <Note>
-            <Tie id="19">
+            <Tie id="26">
               </Tie>
             <pitch>50</pitch>
             <tpc>16</tpc>
@@ -5227,24 +5713,32 @@
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <endSpanner id="19"/>
+            <endSpanner id="26"/>
             <pitch>50</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="54">
         <Chord>
-          <durationType>breve</durationType>
+          <durationType>whole</durationType>
           <Note>
+            <Tie id="27">
+              </Tie>
             <pitch>43</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
-      <Measure number="28" len="1/1">
-        <Rest>
+      <Measure number="55">
+        <Chord>
           <durationType>whole</durationType>
-          </Rest>
-        <tick>105600</tick>
+          <Note>
+            <endSpanner id="27"/>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
