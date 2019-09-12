@@ -1071,7 +1071,7 @@
         </Measure>
       <Measure number="15">
         <Harmony>
-          <name>iv\\</name>
+          <name>iv-IV\\</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -1572,7 +1572,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>IV6</name>
+          <name>VII6</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -1605,7 +1605,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>IV6</name>
+          <name>VII6</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -2841,7 +2841,7 @@
           </Rest>
         <tick>108000</tick>
         <Harmony>
-          <name>III6</name>
+          <name>vi64/III</name>
           </Harmony>
         <tick>108480</tick>
         <Harmony>
@@ -2992,7 +2992,7 @@
           </Rest>
         <tick>117600</tick>
         <Harmony>
-          <name>III6</name>
+          <name>vi64/III</name>
           </Harmony>
         <tick>118080</tick>
         <Harmony>
@@ -3779,6 +3779,7 @@
         <tick>145440</tick>
         <Harmony>
           <name>V/VII</name>
+          <pos x="0" y="-5.5"/>
           </Harmony>
         </Measure>
       <Measure number="77">
@@ -3796,7 +3797,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>VI</name>
+          <name>VI-iv6</name>
           </Harmony>
         <Rest>
           <durationType>quarter</durationType>
@@ -3826,11 +3827,11 @@
           </Rest>
         <tick>148320</tick>
         <Harmony>
-          <name>VII</name>
+          <name>VII-v6</name>
           </Harmony>
         <tick>148800</tick>
         <Harmony>
-          <name>VI</name>
+          <name>VI-iv6</name>
           </Harmony>
         </Measure>
       <Measure number="79">
@@ -3843,11 +3844,11 @@
           </Rest>
         <tick>150240</tick>
         <Harmony>
-          <name>VII</name>
+          <name>VII-v6</name>
           </Harmony>
         <tick>150720</tick>
         <Harmony>
-          <name>VI</name>
+          <name>VI-iv6</name>
           </Harmony>
         <tick>151200</tick>
         <Harmony>
@@ -5007,12 +5008,12 @@
         <tick>191760</tick>
         <Harmony>
           <name>viio6/VII</name>
-          <pos x="0" y="-5.5"/>
+          <pos x="0" y="-5.63188"/>
           </Harmony>
         </Measure>
       <Measure number="101">
         <Harmony>
-          <name>vi6/VII</name>
+          <name>VII\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -5025,11 +5026,6 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <tick>192480</tick>
-        <Harmony>
-          <name>VII\\</name>
-          </Harmony>
-        <tick>192960</tick>
         <Harmony>
           <name>i</name>
           </Harmony>
@@ -5587,7 +5583,7 @@
         </Measure>
       <Measure number="118">
         <Harmony>
-          <name>ii</name>
+          <name>ii/VII</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -5657,7 +5653,7 @@
         </Measure>
       <Measure number="119">
         <Harmony>
-          <name>ii</name>
+          <name>ii/VII</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -6449,7 +6445,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>ii65</name>
+          <name>ii65/III</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -6756,7 +6752,7 @@
           <durationType>eighth</durationType>
           </Rest>
         <Harmony>
-          <name>V(4)/III</name>
+          <name>V(+4)/III</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -7876,7 +7872,7 @@
           </Chord>
         <tick>313920</tick>
         <Harmony>
-          <name>I(6)</name>
+          <name>I(b6)</name>
           </Harmony>
         <tick>314400</tick>
         <Harmony>
