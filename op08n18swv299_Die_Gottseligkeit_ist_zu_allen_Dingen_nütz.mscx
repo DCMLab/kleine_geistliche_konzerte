@@ -68,10 +68,6 @@
         <System>
           </System>
         </Page>
-      <Page>
-        <System>
-          </System>
-        </Page>
       </PageList>
     <Part>
       <Staff id="1">
@@ -346,7 +342,8 @@
         </Measure>
       <Measure number="7">
         <Harmony>
-          <name>VI/iv</name>
+          <name>VI/iv-iv6/iv</name>
+          <pos x="0" y="-4.5"/>
           </Harmony>
         <Rest>
           <durationType>measure</durationType>
@@ -355,7 +352,7 @@
         </Measure>
       <Measure number="8">
         <Harmony>
-          <name>v/iv</name>
+          <name>V/iv</name>
           </Harmony>
         <Rest>
           <durationType>measure</durationType>
@@ -600,7 +597,7 @@
         </Measure>
       <Measure number="19">
         <Harmony>
-          <name>#viio(2)/iv-V6(2)/iv</name>
+          <name>V6(2)/iv</name>
           <pos x="0" y="-4.5"/>
           </Harmony>
         <Chord>
@@ -616,7 +613,7 @@
           </Chord>
         <tick>35520</tick>
         <Harmony>
-          <name>#viio/iv-V6/iv</name>
+          <name>V6/iv</name>
           <pos x="0" y="-4.5"/>
           </Harmony>
         <tick>36000</tick>
@@ -1104,7 +1101,8 @@
         </Measure>
       <Measure number="36">
         <Harmony>
-          <name>ii/VI</name>
+          <name>ii/VI-viio6/VI</name>
+          <pos x="0" y="-5.5"/>
           </Harmony>
         <Rest>
           <durationType>measure</durationType>
@@ -1308,7 +1306,7 @@
           </Harmony>
         <tick>81600</tick>
         <Harmony>
-          <name>III6-v</name>
+          <name>III6</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>

@@ -578,6 +578,7 @@
           </Chord>
         <Harmony>
           <name>ii%43/v</name>
+          <pos x="0" y="-5.5"/>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -590,7 +591,7 @@
         </Measure>
       <Measure number="17">
         <Harmony>
-          <name>V/v</name>
+          <name>V(6)/v</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -1142,7 +1143,7 @@
         </Measure>
       <Measure number="40">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -2165,7 +2166,7 @@
           </Chord>
         <tick>138720</tick>
         <Harmony>
-          <name>III6</name>
+          <name>vi64</name>
           </Harmony>
         <tick>139200</tick>
         <Harmony>
@@ -2711,7 +2712,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -9238,8 +9239,11 @@
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>51</pitch>
+            <tpc>11</tpc>
             </Note>
           </Chord>
         </Measure>

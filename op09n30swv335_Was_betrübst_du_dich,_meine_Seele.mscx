@@ -364,7 +364,7 @@
         </Measure>
       <Measure number="4">
         <Harmony>
-          <name>Vi</name>
+          <name>VI-iv6</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -971,7 +971,7 @@
           </Harmony>
         <tick>54720</tick>
         <Harmony>
-          <name>iv-V/VII\\</name>
+          <name>iv\\-V/VII\\</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -2708,7 +2708,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>#vi%6</name>
+          <name>#vi%65</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>

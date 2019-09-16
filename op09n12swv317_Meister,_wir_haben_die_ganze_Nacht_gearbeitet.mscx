@@ -1143,7 +1143,7 @@
         </Measure>
       <Measure number="24">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -1381,9 +1381,6 @@
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <Harmony>
-          <name>ii65/III</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -1622,7 +1619,7 @@
         </Measure>
       <Measure number="37">
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -2085,7 +2082,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>

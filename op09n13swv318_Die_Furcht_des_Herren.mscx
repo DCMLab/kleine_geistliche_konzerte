@@ -72,6 +72,12 @@
         <System>
           </System>
         </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
       </PageList>
     <Part>
       <Staff id="1">
@@ -401,7 +407,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>vi/III</name>
+          <name>vi/III-IV6/III</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -724,9 +730,6 @@
           </Rest>
         </Measure>
       <Measure number="17">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Harmony>
           <name>V</name>
           </Harmony>
@@ -746,10 +749,6 @@
           </Harmony>
         </Measure>
       <Measure number="18">
-        <Clef>
-          <concertClefType>G8vb</concertClefType>
-          <transposingClefType>G8vb</transposingClefType>
-          </Clef>
         <Harmony>
           <name>V</name>
           </Harmony>
@@ -802,6 +801,9 @@
           </Harmony>
         </Measure>
       <Measure number="20">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <name>i\\</name>
           </Harmony>
@@ -874,7 +876,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>vi/III</name>
+          <name>vi/III-IV6/III</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -975,6 +977,9 @@
           </Harmony>
         </Measure>
       <Measure number="28">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Harmony>
           <name>V/v</name>
           </Harmony>
@@ -1097,7 +1102,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>#viio6</name>
+          <name>ii-#viio6</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -2258,7 +2263,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -2521,10 +2526,6 @@
           </Chord>
         </Measure>
       <Measure number="18">
-        <Clef>
-          <concertClefType>G8vb</concertClefType>
-          <transposingClefType>G8vb</transposingClefType>
-          </Clef>
         <Slur id="9">
           <track>4</track>
           </Slur>
@@ -4448,10 +4449,6 @@
           </Chord>
         </Measure>
       <Measure number="18">
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
         <Chord>
           <durationType>half</durationType>
           <Note>

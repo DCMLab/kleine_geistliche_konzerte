@@ -191,7 +191,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>ii-VII6</name>
+          <name>ii-VII6-#viio6</name>
           <pos x="0" y="-4.7"/>
           </Harmony>
         <Chord>
@@ -207,7 +207,7 @@
         </Measure>
       <Measure number="2">
         <Harmony>
-          <name>III</name>
+          <name>III-i6</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -222,7 +222,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>v</name>
+          <name>v-V</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -252,7 +252,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>ii-VII6</name>
+          <name>ii-VII6-#viio6</name>
           <pos x="0" y="-4.7"/>
           </Harmony>
         <Chord>
@@ -268,7 +268,7 @@
         </Measure>
       <Measure number="4">
         <Harmony>
-          <name>III</name>
+          <name>III-i6</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -283,7 +283,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>v</name>
+          <name>v-V</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -311,7 +311,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>VI</name>
+          <name>VI-iv6</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -687,7 +687,7 @@
         </Measure>
       <Measure number="13">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -710,13 +710,13 @@
           </Rest>
         <tick>30240</tick>
         <Harmony>
-          <name>ii-VII6</name>
+          <name>ii-VII6-#viio6</name>
           <pos x="0" y="-4.8"/>
           </Harmony>
         </Measure>
       <Measure number="15">
         <Harmony>
-          <name>III</name>
+          <name>III-i6</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -732,11 +732,11 @@
           </Chord>
         <tick>31680</tick>
         <Harmony>
-          <name>v</name>
+          <name>v-V</name>
           </Harmony>
         <tick>32160</tick>
         <Harmony>
-          <name>v7</name>
+          <name>v7-V7</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -801,11 +801,11 @@
           </Chord>
         <tick>35520</tick>
         <Harmony>
-          <name>v</name>
+          <name>v-V</name>
           </Harmony>
         <tick>36000</tick>
         <Harmony>
-          <name>v7</name>
+          <name>v7-V7</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -891,7 +891,7 @@
         </Measure>
       <Measure number="20">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -1198,7 +1198,7 @@
         </Measure>
       <Measure number="27">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -1239,7 +1239,8 @@
           </Harmony>
         <tick>62880</tick>
         <Harmony>
-          <name>ii/VII</name>
+          <name>ii/VII-viio6/VII</name>
+          <pos x="0" y="-5.5"/>
           </Harmony>
         </Measure>
       <Measure number="30">
@@ -1311,7 +1312,7 @@
           </Rest>
         <tick>72000</tick>
         <Harmony>
-          <name>V6/v-#viio/v</name>
+          <name>V6/v</name>
           </Harmony>
         <tick>72960</tick>
         <Harmony>
@@ -1349,7 +1350,7 @@
           </Rest>
         <tick>77760</tick>
         <Harmony>
-          <name>V6/VII-viio/VII</name>
+          <name>V6/VII</name>
           </Harmony>
         <tick>78720</tick>
         <Harmony>
@@ -1490,8 +1491,8 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>ii</name>
-          <pos x="0" y="-2.5"/>
+          <name>ii-#viio6</name>
+          <pos x="0" y="-5.5"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -1629,7 +1630,6 @@
           </Chord>
         <Harmony>
           <name>IV7</name>
-          <pos x="0" y="-2.5"/>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -1768,7 +1768,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V6/iv-#viio/iv</name>
+          <name>V6/iv</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -1823,7 +1823,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V6-#viio</name>
+          <name>V6</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -2653,7 +2653,8 @@
         </Measure>
       <Measure number="65">
         <Harmony>
-          <name>iv-IV\\</name>
+          <name>iv\\-IV\\</name>
+          <pos x="0" y="-4.5"/>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -2871,7 +2872,7 @@
         </Measure>
       <Measure number="73">
         <Harmony>
-          <name>III\</name>
+          <name>III\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -3099,7 +3100,7 @@
         </Measure>
       <Measure number="81">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -3216,6 +3217,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>VIM7</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -3512,6 +3516,9 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>VIM7</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -3806,7 +3813,7 @@
         </Measure>
       <Measure number="102">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -4536,7 +4543,7 @@
         </Measure>
       <Measure number="118">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -4695,7 +4702,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>

@@ -121,6 +121,8 @@
       <Page>
         <System>
           </System>
+        <System>
+          </System>
         </Page>
       </PageList>
     <Part>
@@ -495,7 +497,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V2/IV</name>
+          <name>V2(+2)/IV</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -1812,7 +1814,7 @@
         </Measure>
       <Measure number="59">
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -1908,7 +1910,7 @@
           <durationType>half</durationType>
           </Rest>
         <Harmony>
-          <name>V/V</name>
+          <name>V/v</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -1922,7 +1924,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V64/V</name>
+          <name>V64/v</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -3707,7 +3709,6 @@
           </Chord>
         <Harmony>
           <name>IV/V</name>
-          <pos x="0" y="-2.5"/>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -3869,9 +3870,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Harmony>
-          <name>iv7/ii</name>
-          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -3883,6 +3881,11 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <tick>356160</tick>
+        <Harmony>
+          <name>iv7/ii</name>
+          </Harmony>
+        <tick>356640</tick>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -5829,7 +5832,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V2/IV</name>
+          <name>V2(+2)/IV</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>

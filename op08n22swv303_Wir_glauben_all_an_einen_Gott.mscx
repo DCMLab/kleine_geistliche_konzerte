@@ -286,8 +286,7 @@
           </Rest>
         <tick>10560</tick>
         <Harmony>
-          <name>#viio-V6</name>
-          <pos x="0" y="-4.5"/>
+          <name>V6</name>
           </Harmony>
         </Measure>
       <Measure number="7">
@@ -395,7 +394,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>#viio/v-V6/v</name>
+          <name>V6/v</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -500,7 +499,7 @@
         </Measure>
       <Measure number="15">
         <Harmony>
-          <name>V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -597,7 +596,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>#viio-V6</name>
+          <name>V6</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -691,7 +690,7 @@
         </Measure>
       <Measure number="21">
         <Harmony>
-          <name>I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -1048,8 +1047,7 @@
           </Harmony>
         <tick>68640</tick>
         <Harmony>
-          <name>#viio-V6</name>
-          <pos x="0" y="-4.5"/>
+          <name>V6</name>
           </Harmony>
         </Measure>
       <Measure number="37">
@@ -1154,7 +1152,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>vi/VII</name>
+          <name>vi/VII-IV6/VII</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -1223,7 +1221,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>ii65/III</name>
+          <name>ii6/III</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -1250,7 +1248,7 @@
           </Rest>
         <tick>81120</tick>
         <Harmony>
-          <name>vi/III</name>
+          <name>vi/III-IV6/III</name>
           </Harmony>
         <tick>81600</tick>
         <Harmony>
@@ -1308,7 +1306,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>vi/III</name>
+          <name>vi/III-IV6/III</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -1494,7 +1492,7 @@
         </Measure>
       <Measure number="51">
         <Harmony>
-          <name>v</name>
+          <name>v-V</name>
           </Harmony>
         <Slur id="10">
           <track>0</track>
@@ -1513,7 +1511,7 @@
           </Chord>
         <tick>96480</tick>
         <Harmony>
-          <name>iv/v</name>
+          <name>iv/V</name>
           </Harmony>
         <tick>96960</tick>
         <Harmony>
@@ -1648,7 +1646,7 @@
         </Measure>
       <Measure number="57">
         <Harmony>
-          <name>I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -1660,6 +1658,9 @@
           </Chord>
         </Measure>
       <Measure number="58">
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -1673,7 +1674,7 @@
         </Measure>
       <Measure number="60">
         <Harmony>
-          <name>viio/IV-V6/IV</name>
+          <name>V6/IV</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -1689,7 +1690,8 @@
           </Chord>
         <tick>114240</tick>
         <Harmony>
-          <name>viio(2)/IV-V6(4)/IV</name>
+          <name>V6(4)/IV</name>
+          <pos x="0" y="-5.3"/>
           </Harmony>
         </Measure>
       <Measure number="61">
@@ -3046,7 +3048,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>#viio-V6</name>
+          <name>V6</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -3278,7 +3280,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>#viio-V6</name>
+          <name>V6</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>

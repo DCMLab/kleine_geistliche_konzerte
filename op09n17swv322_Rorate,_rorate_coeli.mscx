@@ -843,7 +843,8 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>VI/v</name>
+          <name>iv6/v-VI/v</name>
+          <pos x="0" y="-4.5"/>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -1499,7 +1500,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>viio/I</name>
+          <name>#viio</name>
           </Harmony>
         <Slur id="5">
           <track>0</track>
@@ -1824,8 +1825,8 @@
           </Chord>
         <tick>53280</tick>
         <Harmony>
-          <name>V6/IV-viio/IV</name>
-          <pos x="0" y="-5.5"/>
+          <name>V6/IV</name>
+          <pos x="0" y="-2.5"/>
           </Harmony>
         </Measure>
       <Measure number="29">

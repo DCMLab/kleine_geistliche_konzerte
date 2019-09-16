@@ -373,7 +373,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <name>V6(2)-viio(2)</name>
+          <name>V6(2)</name>
           </Harmony>
         <Rest>
           <durationType>measure</durationType>
@@ -381,7 +381,7 @@
           </Rest>
         <tick>14400</tick>
         <Harmony>
-          <name>V6-viio</name>
+          <name>V6</name>
           </Harmony>
         </Measure>
       <Measure number="9">
@@ -645,8 +645,8 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>viio/IV-V6/IV</name>
-          <pos x="0" y="-5.5"/>
+          <name>V6/IV</name>
+          <pos x="0" y="-2.5"/>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -931,6 +931,7 @@
         <tick>47520</tick>
         <Harmony>
           <name>V2/IV</name>
+          <pos x="0" y="-4.5"/>
           </Harmony>
         </Measure>
       <Measure number="26">
@@ -1220,7 +1221,7 @@
           <durationType>half</durationType>
           </Rest>
         <Harmony>
-          <name>ii-viio6</name>
+          <name>ii</name>
           </Harmony>
         <Rest>
           <durationType>quarter</durationType>
@@ -1757,7 +1758,7 @@
           </Rest>
         <tick>96960</tick>
         <Harmony>
-          <name>ii</name>
+          <name>ii-viio6</name>
           </Harmony>
         </Measure>
       <Measure number="52">
@@ -1767,7 +1768,7 @@
           </Rest>
         <tick>98880</tick>
         <Harmony>
-          <name>I6</name>
+          <name>iii-I6</name>
           </Harmony>
         </Measure>
       <Measure number="53">
@@ -1891,7 +1892,8 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>iio/ii</name>
+          <name>#viio6/ii</name>
+          <pos x="-1" y="-2.5"/>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -2305,8 +2307,8 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>iv7/v-IV7/v</name>
-          <pos x="0" y="-5.5"/>
+          <name>IV7/v</name>
+          <pos x="0" y="-2.5"/>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>

@@ -232,7 +232,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>VII</name>
+          <name>VII-v6</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -433,7 +433,7 @@
           <transposingClefType>G</transposingClefType>
           </Clef>
         <Harmony>
-          <name>ii</name>
+          <name>ii-#viio6</name>
           </Harmony>
         <Slur id="2">
           <track>0</track>
@@ -750,7 +750,7 @@
         </Measure>
       <Measure number="11">
         <Harmony>
-          <name>V(64)/v</name>
+          <name>V(4)/v</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -762,7 +762,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V(6)/v</name>
+          <name>V/v</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -820,7 +820,7 @@
         </Measure>
       <Measure number="14">
         <Harmony>
-          <name>III</name>
+          <name>III-i6</name>
           </Harmony>
         <Rest>
           <durationType>measure</durationType>
@@ -1554,7 +1554,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>#vio</name>
+          <name>IV6</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -1678,7 +1678,7 @@
         </Measure>
       <Measure number="32">
         <Harmony>
-          <name>III\</name>
+          <name>III\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -1805,6 +1805,7 @@
           </Chord>
         <Harmony>
           <name>V(64)/v</name>
+          <pos x="0" y="-5.5"/>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -1850,7 +1851,7 @@
         </Measure>
       <Measure number="38">
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -2264,7 +2265,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>#vio</name>
+          <name>IV6</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -2480,7 +2481,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -3474,6 +3475,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>VI-iv6</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -3522,7 +3526,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>

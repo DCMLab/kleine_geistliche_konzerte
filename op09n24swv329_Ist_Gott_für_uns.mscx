@@ -582,7 +582,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>iv65(2)</name>
+          <name>VIM7</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -1539,7 +1539,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -2705,7 +2705,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -3705,7 +3705,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <name>IV/v</name>
+          <name>ii6/v</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -3874,7 +3874,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>i</name>
+          <name>I</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -3900,6 +3900,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>i</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>

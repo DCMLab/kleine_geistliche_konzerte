@@ -494,7 +494,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>ii/IV</name>
+          <name>ii/IV-viio6/IV</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -609,7 +609,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <name>ii</name>
+          <name>ii-viio6</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -756,7 +756,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>viio</name>
+          <name>V6</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -779,7 +779,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>vi</name>
+          <name>vi-IV6</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -1202,7 +1202,8 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>vi</name>
+          <name>vi-IV6</name>
+          <pos x="-1" y="-2.5"/>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -1278,7 +1279,8 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>iii</name>
+          <name>iii-#viio6/ii</name>
+          <pos x="0" y="-5.5"/>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -2276,7 +2278,7 @@
         </Measure>
       <Measure number="39">
         <Harmony>
-          <name>ii</name>
+          <name>ii-viio6</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -2290,7 +2292,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>iii</name>
+          <name>I6</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -2320,11 +2322,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <tick>82080</tick>
         <Harmony>
           <name>iv6</name>
           </Harmony>
-        <tick>82320</tick>
         <Chord>
           <durationType>eighth</durationType>
           <Slur type="stop" id="7"/>
@@ -2887,7 +2887,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>vi-VI\\</name>
+          <name>vi\\-VI\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -3144,7 +3144,7 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Harmony>
-          <name>VI-vi\\</name>
+          <name>VI\\-vi\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -4677,7 +4677,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>iii</name>
+          <name>I6</name>
           </Harmony>
         <Chord>
           <durationType>16th</durationType>

@@ -1835,7 +1835,7 @@
           </Rest>
         <tick>83520</tick>
         <Harmony>
-          <name>iio-VII6</name>
+          <name>#viio6</name>
           </Harmony>
         </Measure>
       <Measure number="38">
@@ -2741,7 +2741,8 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>VI</name>
+          <name>VI-iv6</name>
+          <pos x="0" y="-5.5"/>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -2833,6 +2834,7 @@
         <tick>143040</tick>
         <Harmony>
           <name>V6/III</name>
+          <pos x="-1" y="-2.5"/>
           </Harmony>
         </Measure>
       <Measure number="69">
@@ -3130,7 +3132,7 @@
           </Rest>
         <tick>159840</tick>
         <Harmony>
-          <name>iv-IV</name>
+          <name>IV</name>
           </Harmony>
         <tick>160320</tick>
         <Harmony>

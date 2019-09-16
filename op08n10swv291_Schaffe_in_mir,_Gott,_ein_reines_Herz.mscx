@@ -335,7 +335,7 @@
         </Measure>
       <Measure number="9">
         <Harmony>
-          <name>V</name>
+          <name>V\\</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -1046,7 +1046,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>vi</name>
+          <name>vi-IV6</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -1063,7 +1063,7 @@
         </Measure>
       <Measure number="35">
         <Harmony>
-          <name>IV</name>
+          <name>IV-ii65</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -1233,7 +1233,7 @@
         </Measure>
       <Measure number="42">
         <Harmony>
-          <name>vi</name>
+          <name>vi-V/ii</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -1449,7 +1449,7 @@
         </Measure>
       <Measure number="47">
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -1518,7 +1518,7 @@
         </Measure>
       <Measure number="52">
         <Harmony>
-          <name>v</name>
+          <name>v-V</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>

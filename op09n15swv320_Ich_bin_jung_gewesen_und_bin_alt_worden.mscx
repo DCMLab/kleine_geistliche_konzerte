@@ -897,10 +897,6 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
-        <Harmony>
-          <name>IVM7/IV</name>
-          <pos x="0" y="-4.9"/>
-          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -1797,7 +1793,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <name>V/vi</name>
+          <name>V/vi\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -1834,7 +1830,7 @@
           </Rest>
         <tick>88800</tick>
         <Harmony>
-          <name>iii</name>
+          <name>iii-V/vi</name>
           </Harmony>
         <tick>89280</tick>
         <Harmony>
@@ -2714,9 +2710,6 @@
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
-        <Harmony>
-          <name>I6</name>
-          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -2727,9 +2720,6 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Harmony>
-          <name>I</name>
-          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>

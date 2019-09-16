@@ -991,7 +991,8 @@
           </Harmony>
         <tick>20880</tick>
         <Harmony>
-          <name>vi6</name>
+          <name>IV64</name>
+          <pos x="-1" y="-2.5"/>
           </Harmony>
         </Measure>
       <Measure number="12">
@@ -1817,7 +1818,7 @@
         </Measure>
       <Measure number="24">
         <Harmony>
-          <name>iv6(2)/vi</name>
+          <name>VIM7/vi</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -1831,7 +1832,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>iv6/vi</name>
+          <name>ii%43/vi</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -1913,7 +1914,7 @@
         </Measure>
       <Measure number="26">
         <Harmony>
-          <name>viio6(2)</name>
+          <name>ii7</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -1929,7 +1930,7 @@
           </Chord>
         <tick>48480</tick>
         <Harmony>
-          <name>viio6</name>
+          <name>V43</name>
           </Harmony>
         <tick>48960</tick>
         <Harmony>
@@ -2440,6 +2441,9 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio64/IV</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3571,7 +3575,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <name>V7/vi</name>
+          <name>V/vi</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -3595,6 +3599,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V7/vi</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -5033,7 +5040,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>viio6/II</name>
+          <name>viio6/ii</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -5315,6 +5322,9 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Slur type="stop" id="20"/>
@@ -5660,7 +5670,7 @@
           </Rest>
         <tick>195840</tick>
         <Harmony>
-          <name>iv6/ii</name>
+          <name>VI/ii-iv6/ii</name>
           </Harmony>
         </Measure>
       <Measure number="96">
