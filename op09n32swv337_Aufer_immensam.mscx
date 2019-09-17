@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -157,6 +157,10 @@
       <Page>
         <System>
           </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         </Page>
@@ -7879,7 +7883,7 @@
           <name>ii%65</name>
           </Harmony>
         </Measure>
-      <Measure number="165">
+      <Measure number="165" len="8/4">
         <Harmony>
           <name>I\\</name>
           </Harmony>
@@ -7897,12 +7901,6 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="166">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -13623,7 +13621,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="165">
+      <Measure number="165" len="8/4">
         <Chord>
           <durationType>breve</durationType>
           <Articulation>
@@ -13638,12 +13636,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="166">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -18729,7 +18721,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="165">
+      <Measure number="165" len="8/4">
         <Chord>
           <durationType>breve</durationType>
           <Articulation>
@@ -18747,12 +18739,6 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="166">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -23044,7 +23030,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="165">
+      <Measure number="165" len="8/4">
         <Chord>
           <durationType>breve</durationType>
           <Articulation>
@@ -23059,12 +23045,6 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="166">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -25999,7 +25979,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="165">
+      <Measure number="165" len="8/4">
         <Chord>
           <durationType>breve</durationType>
           <Articulation>
@@ -26014,12 +25994,6 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="166">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -28566,7 +28540,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="165">
+      <Measure number="165" len="8/4">
         <Chord>
           <durationType>breve</durationType>
           <Articulation>
@@ -28578,12 +28552,6 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="166">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
