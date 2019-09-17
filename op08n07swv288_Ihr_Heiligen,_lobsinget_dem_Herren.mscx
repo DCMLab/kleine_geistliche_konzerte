@@ -866,7 +866,7 @@
           </Rest>
         <tick>47040</tick>
         <Harmony>
-          <name>V6/v-#viio/v</name>
+          <name>V6/v</name>
           </Harmony>
         </Measure>
       <Measure number="26">
@@ -1302,7 +1302,7 @@
         </Measure>
       <Measure number="34">
         <Harmony>
-          <name>ii-II\\</name>
+          <name>ii\\-II\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -1342,7 +1342,7 @@
         </Measure>
       <Measure number="38">
         <Harmony>
-          <name>ii</name>
+          <name>ii-viio6</name>
           </Harmony>
         <Rest>
           <durationType>measure</durationType>
@@ -1350,7 +1350,7 @@
           </Rest>
         <tick>72000</tick>
         <Harmony>
-          <name>v6/ii</name>
+          <name>I-v6/ii</name>
           </Harmony>
         </Measure>
       <Measure number="39">
@@ -1365,7 +1365,7 @@
         <tick>73440</tick>
         <Harmony>
           <name>VI/ii-iv6/ii</name>
-          <pos x="0" y="-7.3"/>
+          <pos x="0" y="-5"/>
           </Harmony>
         </Measure>
       <Measure number="40">
@@ -2054,7 +2054,7 @@
         </Measure>
       <Measure number="62">
         <Harmony>
-          <name>iii-viio/IV-V6/IV</name>
+          <name>iii-V6/IV</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>

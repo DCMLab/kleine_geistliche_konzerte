@@ -251,7 +251,7 @@
         </Measure>
       <Measure number="4">
         <Harmony>
-          <name>ii</name>
+          <name>ii-viio6</name>
           </Harmony>
         <Slur id="2">
           <track>0</track>
@@ -670,7 +670,7 @@
         </Measure>
       <Measure number="15">
         <Harmony>
-          <name>vi</name>
+          <name>vi-IV6</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -1226,7 +1226,7 @@
         </Measure>
       <Measure number="25">
         <Harmony>
-          <name>VII</name>
+          <name>.bVII</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -1506,7 +1506,7 @@
         </Measure>
       <Measure number="29">
         <Harmony>
-          <name>v</name>
+          <name>iv/ii</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -1566,7 +1566,7 @@
         </Measure>
       <Measure number="32">
         <Harmony>
-          <name>ii-II\\</name>
+          <name>ii\\-II\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -2330,7 +2330,7 @@
           </Rest>
         <tick>99360</tick>
         <Harmony>
-          <name>V6-viio</name>
+          <name>V6</name>
           </Harmony>
         </Measure>
       <Measure number="53">
@@ -2389,7 +2389,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V6/v-#viio/v</name>
+          <name>V6/v</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -2835,7 +2835,7 @@
         </Measure>
       <Measure number="62">
         <Harmony>
-          <name>II\\</name>
+          <name>ii\\-II\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>

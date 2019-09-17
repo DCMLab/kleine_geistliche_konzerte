@@ -425,7 +425,7 @@
         </Measure>
       <Measure number="3">
         <Harmony>
-          <name>i-V/iv\\</name>
+          <name>i\\-V/iv\\</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -1075,7 +1075,7 @@
         </Measure>
       <Measure number="15">
         <Harmony>
-          <name>iv-IV\\</name>
+          <name>iv\\-IV\\</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -1300,7 +1300,7 @@
         </Measure>
       <Measure number="22">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Rest>
           <durationType>measure</durationType>
@@ -1491,7 +1491,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>iv-IV\\</name>
+          <name>iv\\-IV\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -3882,7 +3882,7 @@
         </Measure>
       <Measure number="81">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Rest>
           <durationType>measure</durationType>
@@ -6242,7 +6242,7 @@
         </Measure>
       <Measure number="133">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Rest>
           <durationType>measure</durationType>
@@ -7876,7 +7876,7 @@
           </Chord>
         <tick>313920</tick>
         <Harmony>
-          <name>I(b6)</name>
+          <name>ivM7</name>
           </Harmony>
         <tick>314400</tick>
         <Harmony>

@@ -442,7 +442,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>VI</name>
+          <name>VI-iv6</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -616,7 +616,8 @@
           </Harmony>
         <tick>12960</tick>
         <Harmony>
-          <name>vi/III</name>
+          <name>IV6/III-vi/III</name>
+          <pos x="0" y="-5.5"/>
           </Harmony>
         </Measure>
       <Measure number="8">
@@ -1160,7 +1161,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>ii</name>
+          <name>ii7</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -1216,7 +1217,7 @@
         </Measure>
       <Measure number="17">
         <Harmony>
-          <name>III</name>
+          <name>IIIM7</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -1805,7 +1806,7 @@
         </Measure>
       <Measure number="31">
         <Harmony>
-          <name>V</name>
+          <name>V7</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -2239,7 +2240,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -2769,7 +2770,7 @@
         </Measure>
       <Measure number="55">
         <Harmony>
-          <name>IV7/v</name>
+          <name>ii65/v</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -3378,7 +3379,8 @@
           </Chord>
         <tick>123840</tick>
         <Harmony>
-          <name>ii%65/ii</name>
+          <name>ii65/ii-ii%65/ii</name>
+          <pos x="0" y="-5.5"/>
           </Harmony>
         <tick>124320</tick>
         <Chord>
@@ -3428,7 +3430,7 @@
         </Measure>
       <Measure number="67">
         <Harmony>
-          <name>ii-V/V\\</name>
+          <name>ii\\-V/V\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -3802,6 +3804,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>#vio6/v</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3894,6 +3899,9 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V(4)/v</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -3904,9 +3912,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Harmony>
-          <name>V(4)/v</name>
-          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -3929,7 +3934,8 @@
           <transposingClefType>G</transposingClefType>
           </Clef>
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
+          <pos x="-2" y="-2.5"/>
           </Harmony>
         <Rest>
           <durationType>measure</durationType>
@@ -4283,7 +4289,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V</name>
+          <name>V-v</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -4610,7 +4616,7 @@
         </Measure>
       <Measure number="93">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -4749,7 +4755,7 @@
         </Measure>
       <Measure number="97">
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Rest>
           <durationType>measure</durationType>
@@ -4878,7 +4884,7 @@
         </Measure>
       <Measure number="101">
         <Harmony>
-          <name>iv-IV\\</name>
+          <name>iv\\-IV\\</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -5655,7 +5661,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -6188,7 +6194,7 @@
         </Measure>
       <Measure number="132">
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -6409,6 +6415,7 @@
           </Chord>
         <Harmony>
           <name>V/VII</name>
+          <pos x="0" y="-5.5"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -7461,7 +7468,7 @@
           </Harmony>
         <tick>296640</tick>
         <Harmony>
-          <name>IV</name>
+          <name>iv</name>
           </Harmony>
         <tick>297120</tick>
         <Harmony>
@@ -7491,7 +7498,7 @@
         </Measure>
       <Measure number="157">
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -8176,7 +8183,7 @@
           </Rest>
         <tick>314400</tick>
         <Harmony>
-          <name>IV7</name>
+          <name>iv7-IV7</name>
           </Harmony>
         </Measure>
       <Measure number="165">
@@ -8228,11 +8235,6 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>317520</tick>
-        <Harmony>
-          <name>iv6</name>
-          </Harmony>
-        <tick>317760</tick>
         <Harmony>
           <name>viio6/IV</name>
           </Harmony>
@@ -8405,7 +8407,7 @@
           </Rest>
         <tick>323040</tick>
         <Harmony>
-          <name>IV7/v</name>
+          <name>iv7/v</name>
           </Harmony>
         <tick>323520</tick>
         <Harmony>
@@ -8418,7 +8420,7 @@
         </Measure>
       <Measure number="170">
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Rest>
           <durationType>quarter</durationType>

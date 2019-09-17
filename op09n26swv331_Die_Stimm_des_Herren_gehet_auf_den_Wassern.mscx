@@ -1248,7 +1248,7 @@
           </Rest>
         <tick>65760</tick>
         <Harmony>
-          <name>V6/IV</name>
+          <name>i6</name>
           </Harmony>
         <tick>66240</tick>
         <Harmony>
@@ -1259,8 +1259,8 @@
           </Rest>
         <tick>66720</tick>
         <Harmony>
-          <name>V6/IV</name>
-          <pos x="0" y="-5.5"/>
+          <name>i6</name>
+          <pos x="0" y="-2.5"/>
           </Harmony>
         </Measure>
       <Measure number="31">
@@ -1318,7 +1318,7 @@
           </Chord>
         <tick>71520</tick>
         <Harmony>
-          <name>V6/III</name>
+          <name>VII6</name>
           </Harmony>
         <tick>72000</tick>
         <Harmony>
@@ -1336,7 +1336,7 @@
           </Chord>
         <tick>72480</tick>
         <Harmony>
-          <name>V6/III</name>
+          <name>VII6</name>
           </Harmony>
         </Measure>
       <Measure number="33">
@@ -1425,7 +1425,7 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -1553,9 +1553,12 @@
           </Chord>
         <tick>92640</tick>
         <Harmony>
-          <name>iv6/v</name>
+          <name>iv6(2)/v</name>
           </Harmony>
         <tick>92880</tick>
+        <Harmony>
+          <name>iv6/v</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -1763,7 +1766,7 @@
           <transposingClefType>G</transposingClefType>
           </Clef>
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Rest>
           <durationType>quarter</durationType>
@@ -1940,7 +1943,7 @@
           </Chord>
         <tick>108960</tick>
         <Harmony>
-          <name>ii%65</name>
+          <name>ii65-ii%65</name>
           </Harmony>
         <tick>109440</tick>
         <Harmony>
@@ -2540,7 +2543,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>iv6(2)</name>
+          <name>VIM6</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -2552,11 +2555,6 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <tick>130560</tick>
-        <Harmony>
-          <name>iv65(2)</name>
-          </Harmony>
-        <tick>131040</tick>
         <Harmony>
           <name>iv6</name>
           </Harmony>
@@ -3848,7 +3846,7 @@
         </Measure>
       <Measure number="105">
         <Harmony>
-          <name>III</name>
+          <name>IV6</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -3936,7 +3934,7 @@
           <transposingClefType>G</transposingClefType>
           </Clef>
         <Harmony>
-          <name>III</name>
+          <name>VII</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -4026,7 +4024,7 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>

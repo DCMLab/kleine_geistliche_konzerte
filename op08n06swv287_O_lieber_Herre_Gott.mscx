@@ -1791,7 +1791,7 @@
         </Measure>
       <Measure number="48">
         <Harmony>
-          <name>#viio-V6</name>
+          <name>V6</name>
           </Harmony>
         <Rest>
           <durationType>measure</durationType>
@@ -2157,7 +2157,7 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Harmony>
-          <name>ii-II\\</name>
+          <name>ii\\-II\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -2569,7 +2569,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>ii-VII6-#viio6</name>
+          <name>ii-#viio6</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -2698,7 +2698,7 @@
           </Harmony>
         <tick>159360</tick>
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -3868,7 +3868,7 @@
         </Measure>
       <Measure number="96">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>

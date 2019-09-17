@@ -1994,7 +1994,7 @@
         </Measure>
       <Measure number="50">
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -2407,7 +2407,7 @@
           </Harmony>
         <tick>116160</tick>
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -2694,7 +2694,7 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -4218,7 +4218,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V</name>
+          <name>V/V</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -4390,7 +4390,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <Harmony>
-          <name>i-I\\</name>
+          <name>i\\-I\\</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>

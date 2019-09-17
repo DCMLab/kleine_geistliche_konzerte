@@ -519,7 +519,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V2/IV</name>
+          <name>V2(+2)/IV</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -1489,7 +1489,7 @@
         </Measure>
       <Measure number="59">
         <Harmony>
-          <name>v-V\\</name>
+          <name>v\\-V\\</name>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -1587,7 +1587,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V/V</name>
+          <name>V/v</name>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -1601,7 +1601,7 @@
           </Chord>
         <tick>177600</tick>
         <Harmony>
-          <name>V64/V</name>
+          <name>V64/v</name>
           </Harmony>
         </Measure>
       <Measure number="63">
@@ -3213,7 +3213,7 @@
           </Chord>
         <Harmony>
           <name>VI/v-iv6/v</name>
-          <pos x="0" y="-5.5"/>
+          <pos x="-1" y="-5.5"/>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -3249,7 +3249,7 @@
           </Chord>
         <Harmony>
           <name>iv/V-IV/V</name>
-          <pos x="0" y="-5.5"/>
+          <pos x="1" y="-5.5"/>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
@@ -3399,9 +3399,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Harmony>
-          <name>iv7/ii</name>
-          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -3413,6 +3410,12 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <tick>370560</tick>
+        <Harmony>
+          <name>iv7/ii</name>
+          <pos x="0.139868" y="-2.37974"/>
+          </Harmony>
+        <tick>371040</tick>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -5081,7 +5084,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V2/IV</name>
+          <name>V2(+2)/IV</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
