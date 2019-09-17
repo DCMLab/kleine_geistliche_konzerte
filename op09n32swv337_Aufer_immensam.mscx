@@ -709,7 +709,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V2/VII</name>
+          <name>V7/VII</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -1003,7 +1003,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V2</name>
+          <name>V7</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -2275,7 +2275,7 @@
           </Rest>
         <tick>79200</tick>
         <Harmony>
-          <name>III</name>
+          <name>V(64)/III</name>
           </Harmony>
         <tick>79680</tick>
         <Harmony>

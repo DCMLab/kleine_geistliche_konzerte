@@ -1608,7 +1608,7 @@
         </Measure>
       <Measure number="37">
         <Harmony>
-          <name>III/v</name>
+          <name>III6/v</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -4185,7 +4185,7 @@
           </Rest>
         <tick>174240</tick>
         <Harmony>
-          <name>i6</name>
+          <name>III6</name>
           </Harmony>
         </Measure>
       <Measure number="92">

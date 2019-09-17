@@ -87,6 +87,8 @@
       <Page>
         <System>
           </System>
+        <System>
+          </System>
         </Page>
       </PageList>
     <Part>
@@ -1826,7 +1828,6 @@
         <tick>53280</tick>
         <Harmony>
           <name>V6/IV</name>
-          <pos x="0" y="-2.5"/>
           </Harmony>
         </Measure>
       <Measure number="29">
@@ -2602,7 +2603,8 @@
           </Harmony>
         <tick>87840</tick>
         <Harmony>
-          <name>v</name>
+          <name>V(64)/v</name>
+          <pos x="-1" y="-2.5"/>
           </Harmony>
         </Measure>
       <Measure number="47">
@@ -2645,9 +2647,6 @@
           </Chord>
         </Measure>
       <Measure number="49">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -2994,6 +2993,11 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <tick>104160</tick>
+        <Harmony>
+          <name>V6</name>
+          </Harmony>
+        <tick>104640</tick>
         <Harmony>
           <name>i</name>
           </Harmony>

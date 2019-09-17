@@ -4989,10 +4989,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <tick>187200</tick>
-        <Harmony>
-          <name>i6</name>
-          </Harmony>
         </Measure>
       <Measure number="99">
         <Clef>
@@ -5933,7 +5929,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V64</name>
+          <name>V</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -9032,9 +9028,6 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <Harmony>
-          <name>VII6</name>
-          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Slur type="stop" id="23"/>
@@ -9405,7 +9398,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>i</name>
+          <name>i6</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -12999,9 +12992,6 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <Harmony>
-          <name>i6</name>
-          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -13013,10 +13003,6 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <tick>525600</tick>
-        <Harmony>
-          <name>IV7</name>
-          </Harmony>
         </Measure>
       <Measure number="275">
         <Harmony>

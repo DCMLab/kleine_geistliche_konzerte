@@ -2615,7 +2615,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V43</name>
+          <name>V7</name>
           </Harmony>
         <Slur id="8">
           <track>0</track>
@@ -2635,7 +2635,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>i</name>
+          <name>V(64)</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
