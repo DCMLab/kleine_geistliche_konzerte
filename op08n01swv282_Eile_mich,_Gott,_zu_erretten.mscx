@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programVersion>2.2.1</programVersion>
+  <programRevision>51b8386</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -925,6 +925,7 @@
           </Chord>
         <Harmony>
           <name>viio6/IV</name>
+          <pos x="0.303645" y="-4.60729"/>
           </Harmony>
         <Chord>
           <dots>1</dots>
