@@ -2311,7 +2311,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V2/IV</name>
+          <name>V/IV</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -2391,7 +2391,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V2/ii</name>
+          <name>V7/ii</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -2522,7 +2522,7 @@
           </Harmony>
         <tick>112080</tick>
         <Harmony>
-          <name>V2/ii</name>
+          <name>V7/ii</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
