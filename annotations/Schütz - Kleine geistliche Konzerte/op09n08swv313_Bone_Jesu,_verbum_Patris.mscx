@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -160,6 +160,12 @@
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
+        <TimeSig>
+          <subtype>1</subtype>
+          <sigN>4</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
         <StaffText>
           <pos x="45.8622" y="-14.4504"/>
           <halign>center</halign>
@@ -4891,7 +4897,6 @@
           </Chord>
         <Harmony>
           <name>V6</name>
-          <pos x="0" y="-2.5"/>
           </Harmony>
         <Rest>
           <durationType>half</durationType>
@@ -6652,6 +6657,12 @@
           <concertClefType>G</concertClefType>
           <transposingClefType>G</transposingClefType>
           </Clef>
+        <TimeSig>
+          <subtype>1</subtype>
+          <sigN>4</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -12109,6 +12120,12 @@
           <concertClefType>F</concertClefType>
           <transposingClefType>F</transposingClefType>
           </Clef>
+        <TimeSig>
+          <subtype>1</subtype>
+          <sigN>4</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
         <Chord>
           <durationType>half</durationType>
           <Note>

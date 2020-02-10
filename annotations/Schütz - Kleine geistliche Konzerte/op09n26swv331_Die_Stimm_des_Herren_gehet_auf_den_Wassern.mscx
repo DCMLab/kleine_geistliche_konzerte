@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -4850,7 +4850,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="138">
+      <Measure number="138" len="8/4">
         <Harmony>
           <name>I\\</name>
           </Harmony>
@@ -4871,15 +4871,6 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="139">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -8985,7 +8976,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="138">
+      <Measure number="138" len="8/4">
         <Chord>
           <durationType>breve</durationType>
           <Articulation>
@@ -9000,12 +8991,6 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="139">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -9014,6 +8999,15 @@
       </Staff>
     <Staff id="3">
       <Measure number="1">
+        <Clef>
+          <concertClefType>G</concertClefType>
+          <transposingClefType>G</transposingClefType>
+          </Clef>
+        <TimeSig>
+          <sigN>4</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -12457,7 +12451,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="138">
+      <Measure number="138" len="8/4">
         <Chord>
           <durationType>breve</durationType>
           <Articulation>
@@ -12472,12 +12466,6 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="139">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -12486,6 +12474,15 @@
       </Staff>
     <Staff id="4">
       <Measure number="1">
+        <Clef>
+          <concertClefType>G</concertClefType>
+          <transposingClefType>G</transposingClefType>
+          </Clef>
+        <TimeSig>
+          <sigN>4</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -14692,7 +14689,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="138">
+      <Measure number="138" len="8/4">
         <Chord>
           <durationType>breve</durationType>
           <Articulation>
@@ -14707,12 +14704,6 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="139">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -14721,6 +14712,15 @@
       </Staff>
     <Staff id="5">
       <Measure number="1">
+        <Clef>
+          <concertClefType>G</concertClefType>
+          <transposingClefType>G</transposingClefType>
+          </Clef>
+        <TimeSig>
+          <sigN>4</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -16627,7 +16627,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="138">
+      <Measure number="138" len="8/4">
         <Chord>
           <durationType>breve</durationType>
           <Articulation>
@@ -16639,12 +16639,6 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="139">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>

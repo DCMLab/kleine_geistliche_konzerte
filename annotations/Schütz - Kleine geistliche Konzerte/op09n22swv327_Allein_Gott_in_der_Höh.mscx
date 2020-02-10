@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -207,6 +207,19 @@
         <TimeSig>
           <sigN>3</sigN>
           <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="288"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="288"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="288"/>
+            <Node pos="44" action="512"/>
+            </Groups>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
@@ -6399,6 +6412,19 @@
         <TimeSig>
           <sigN>3</sigN>
           <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="288"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="288"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="288"/>
+            <Node pos="44" action="512"/>
+            </Groups>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Chord>
@@ -10543,6 +10569,24 @@
       </Staff>
     <Staff id="3">
       <Measure number="1">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="288"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="288"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="288"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
         <Rest>
           <durationType>measure</durationType>
           <duration z="3" n="2"/>
@@ -12952,6 +12996,24 @@
       </Staff>
     <Staff id="4">
       <Measure number="1">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="288"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="288"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="288"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
         <Rest>
           <durationType>measure</durationType>
           <duration z="3" n="2"/>
@@ -14557,6 +14619,24 @@
       </Staff>
     <Staff id="5">
       <Measure number="1">
+        <TimeSig>
+          <sigN>3</sigN>
+          <sigD>2</sigD>
+          <Groups>
+            <Node pos="4" action="512"/>
+            <Node pos="8" action="288"/>
+            <Node pos="12" action="512"/>
+            <Node pos="16" action="273"/>
+            <Node pos="20" action="512"/>
+            <Node pos="24" action="288"/>
+            <Node pos="28" action="512"/>
+            <Node pos="32" action="273"/>
+            <Node pos="36" action="512"/>
+            <Node pos="40" action="288"/>
+            <Node pos="44" action="512"/>
+            </Groups>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
         <Rest>
           <durationType>measure</durationType>
           <duration z="3" n="2"/>
