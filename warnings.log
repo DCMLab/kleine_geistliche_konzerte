@@ -1,0 +1,108 @@
+Warnings encountered during the last execution of ms3 review (v1.2.4)
+=====================================================================
+
+MISSING_TIME_SIGNATURE_WARNING (23,) ms3.Parse.kleine_geistliche_konzerte.op08n17swv298_Das_Blut_Jesu_Christi -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 797) make_timesig_col():
+	No time signature specified. Wild-guessing it's the default 4/4.
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op08n24swv305_Ich_hab_mein_Sach_Gott_heimgestellt -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 13: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [4].
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op08n24swv305_Ich_hab_mein_Sach_Gott_heimgestellt -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 79: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [5].
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op08n24swv305_Ich_hab_mein_Sach_Gott_heimgestellt -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 94: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [6].
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n16swv321_Herr,_wenn_ich_nur_dich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 20: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [3].
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n17swv322_Rorate,_rorate_coeli -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 7: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [3].
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n20swv325_Die_Seele_Christi_heilige_mich -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 23: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [4].
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n27swv332_Jubilate_Deo_omnis_terra -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 8: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [4].
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n31swv336_Quemadmodum_desiderat_cervus -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 6: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [3].
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n31swv336_Quemadmodum_desiderat_cervus -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 11: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [4].
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n31swv336_Quemadmodum_desiderat_cervus -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 627) squash_staves():
+	mc 15: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [5].
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 64: ') ms3.Parse.kleine_geistliche_konzerte.op09n02swv307_Was_hast_du_verwirket -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4139) features2tpcs():
+	MC 64: #vii in major context corrected to vii.
+Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
+                                                                                                     mc   mn mc_onset         label      chord_tones added_tones  n_colored  n_untouched  count_ratio
+kleine_geistliche_konzerte MS3/op08n02swv283_Bringt_her_dem_Herren.mscx                               4    4      3/4           V/V        (2, 6, 3)          ()        1.0          0.0     1.000000
+                           MS3/op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen.mscx              14   14      1/2           bVI    (-10, -6, -9)          ()        5.0          0.0     1.000000
+                           MS3/op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen.mscx              58   58        0           bVI    (-10, -6, -9)          ()        2.0          0.0     1.000000
+                           MS3/op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen.mscx              67   67      1/2           bVI    (-10, -6, -9)          ()        2.0          0.0     1.000000
+                           MS3/op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen.mscx              81   81        0           bVI    (-10, -6, -9)          ()        4.0          0.0     1.000000
+                           MS3/op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen.mscx              90   90      1/4           V/v        (3, 7, 4)          ()        1.0          0.0     1.000000
+                           MS3/op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen.mscx              91   91      3/4          V/iv        (1, 5, 2)          ()        1.0          0.0     1.000000
+                           MS3/op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen.mscx              98   98      1/4           bVI    (-10, -6, -9)          ()        3.0          0.0     1.000000
+                           MS3/op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen.mscx             105  105      3/4          V/iv        (1, 5, 2)          ()        1.0          0.0     1.000000
+                           MS3/op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen.mscx             107  107      3/4         V/III       (-1, 3, 0)          ()        1.0          0.0     1.000000
+                           MS3/op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen.mscx             108  108      1/2           bVI    (-10, -6, -9)          ()        3.0          0.0     1.000000
+                           MS3/op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen.mscx             110  110      1/2           bVI    (-10, -6, -9)          ()        3.0          0.0     1.000000
+                           MS3/op08n04swv285_O_süsser,_o_freundlicher.mscx                            2    2        0           bVI    (-10, -6, -9)          ()        2.0          0.0     1.000000
+                           MS3/op08n04swv285_O_süsser,_o_freundlicher.mscx                           20   20        0            vi     (-3, -6, -2)          ()        3.0          0.0     1.000000
+                           MS3/op08n04swv285_O_süsser,_o_freundlicher.mscx                           23   23      7/8           vi6     (-6, -2, -3)          ()        1.0          0.0     1.000000
+                           MS3/op08n04swv285_O_süsser,_o_freundlicher.mscx                           31   31        1            vi     (-3, -6, -2)          ()        2.0          0.0     1.000000
+                           MS3/op08n04swv285_O_süsser,_o_freundlicher.mscx                           34   34      1/2           bVI    (-10, -6, -9)          ()        2.0          0.0     1.000000
+                           MS3/op08n04swv285_O_süsser,_o_freundlicher.mscx                           37   37      1/2           bVI    (-10, -6, -9)          ()        6.0          0.0     1.000000
+                           MS3/op08n04swv285_O_süsser,_o_freundlicher.mscx                           58   58      1/2           bVI    (-10, -6, -9)          ()        3.0          0.0     1.000000
+                           MS3/op08n04swv285_O_süsser,_o_freundlicher.mscx                           60   60        0           bVI    (-10, -6, -9)          ()        8.0          0.0     1.000000
+                           MS3/op08n04swv285_O_süsser,_o_freundlicher.mscx                           75   75        0          bVI6    (-6, -9, -10)          ()        2.0          0.0     1.000000
+                           MS3/op08n04swv285_O_süsser,_o_freundlicher.mscx                           93   93      1/4           bVI    (-10, -6, -9)          ()        3.0          0.0     1.000000
+                           MS3/op08n04swv285_O_süsser,_o_freundlicher.mscx                          104  104        0           bVI    (-10, -6, -9)          ()        2.0          0.0     1.000000
+                           MS3/op08n06swv287_O_lieber_Herre_Gott.mscx                                 8    8      1/2        V6/bVI     (-5, -8, -9)          ()        2.0          0.0     1.000000
+                           MS3/op08n06swv287_O_lieber_Herre_Gott.mscx                                 9    9        0           bVI    (-10, -6, -9)          ()        5.0          0.0     1.000000
+                           MS3/op08n06swv287_O_lieber_Herre_Gott.mscx                                20   20      1/2        V6/bVI     (-5, -8, -9)          ()        5.0          0.0     1.000000
+                           MS3/op08n06swv287_O_lieber_Herre_Gott.mscx                                21   21        0           bVI    (-10, -6, -9)          ()        6.0          0.0     1.000000
+                           MS3/op08n06swv287_O_lieber_Herre_Gott.mscx                                77   77      3/4           bVI    (-10, -6, -9)          ()        1.0          0.0     1.000000
+                           MS3/op08n06swv287_O_lieber_Herre_Gott.mscx                                78   78      1/2           bVI    (-10, -6, -9)          ()        3.0          0.0     1.000000
+                           MS3/op08n06swv287_O_lieber_Herre_Gott.mscx                                85   85        0           bVI    (-10, -6, -9)          ()        3.0          0.0     1.000000
+                           MS3/op08n06swv287_O_lieber_Herre_Gott.mscx                                88   88        0           iii     (-2, -5, -1)          ()        5.0          0.0     1.000000
+                           MS3/op08n06swv287_O_lieber_Herre_Gott.mscx                                92   92        0           bVI    (-10, -6, -9)          ()        3.0          0.0     1.000000
+                           MS3/op08n09swv290_Wohl_dem,_der_nicht_wandelt_im_Rat_der_Gottlosen.mscx  121  121      1/2          V/ii        (4, 8, 5)          ()        3.0          1.0     0.750000
+                           MS3/op08n13swv294_Eins_bitte_ich_vom_Herren.mscx                          35   35        0             V        (0, 4, 1)          ()        3.0          0.0     1.000000
+                           MS3/op08n16swv297_O_Herr_hilf.mscx                                        41   41      1/2            VI      (-3, 1, -2)          ()        2.0          0.0     1.000000
+                           MS3/op08n18swv299_Die_Gottseligkeit_ist_zu_allen_Dingen_nütz.mscx         19   19        0      V6(2)/iv       (8, 5, -1)          ()        2.0          1.0     0.666667
+                           MS3/op08n22swv303_Wir_glauben_all_an_einen_Gott.mscx                      40   40      1/2        VI/VII        (3, 7, 4)          ()        2.0          0.0     1.000000
+                           MS3/op09n01swv306_Ich_will_den_Herren_loben_allezeit.mscx                 39   39      1/2        iv6(2)      (-5, -1, 0)          ()        3.0          0.0     1.000000
+                           MS3/op09n01swv306_Ich_will_den_Herren_loben_allezeit.mscx                 39   39      7/8           iv6     (-5, -1, -2)          ()        1.0          0.0     1.000000
+                           MS3/op09n02swv307_Was_hast_du_verwirket.mscx                              71   71      3/4            VI      (-2, 2, -1)          ()        2.0          0.0     1.000000
+                           MS3/op09n04swv309_O_misericordissime_Jesu.mscx                            73   73      1/2            vi     (-3, -6, -2)          ()        4.0          0.0     1.000000
+                           MS3/op09n04swv309_O_misericordissime_Jesu.mscx                            75   75      1/2           vi6     (-6, -2, -3)          ()        2.0          0.0     1.000000
+                           MS3/op09n04swv309_O_misericordissime_Jesu.mscx                            75   75      3/4         V6/ii        (8, 5, 4)          ()        1.0          0.0     1.000000
+                           MS3/op09n04swv309_O_misericordissime_Jesu.mscx                            76   76      1/4         V6/ii        (8, 5, 4)          ()        4.0          1.0     0.800000
+                           MS3/op09n05swv310_Ich_liege_und_schlafe.mscx                              41   41      1/2             i        (3, 0, 4)          ()        2.0          1.0     0.666667
+                           MS3/op09n05swv310_Ich_liege_und_schlafe.mscx                              68   68      1/2       IV6/III       (3, 0, -1)          ()        2.0          0.0     1.000000
+                           MS3/op09n08swv313_Bone_Jesu,_verbum_Patris.mscx                            6    6      3/4     vii%7/VII     (6, 3, 0, 4)          ()        2.0          1.0     0.666667
+                           MS3/op09n08swv313_Bone_Jesu,_verbum_Patris.mscx                           19   19      1/2            V6        (8, 5, 4)          ()        3.0          0.0     1.000000
+                           MS3/op09n08swv313_Bone_Jesu,_verbum_Patris.mscx                           24   24      1/2          V6/v        (9, 6, 5)          ()        2.0          1.0     0.666667
+                           MS3/op09n08swv313_Bone_Jesu,_verbum_Patris.mscx                           79   79        0          VI/v        (0, 4, 1)          ()        3.0          1.0     0.750000
+                           MS3/op09n14swv319_Ich_beuge_meine_Knie_gegen_dem_Vater.mscx               29   29      1/2           VII       (6, 10, 7)          ()        3.0          0.0     1.000000
+                           MS3/op09n14swv319_Ich_beuge_meine_Knie_gegen_dem_Vater.mscx               34   34      1/2         V/VII       (7, 11, 8)          ()        2.0          0.0     1.000000
+                           MS3/op09n14swv319_Ich_beuge_meine_Knie_gegen_dem_Vater.mscx               35   35        0           VII       (6, 10, 7)          ()        4.0          0.0     1.000000
+                           MS3/op09n14swv319_Ich_beuge_meine_Knie_gegen_dem_Vater.mscx               35   35      3/4         V/VII       (7, 11, 8)          ()        3.0          0.0     1.000000
+                           MS3/op09n14swv319_Ich_beuge_meine_Knie_gegen_dem_Vater.mscx               36   36        0           VII       (6, 10, 7)          ()        6.0          0.0     1.000000
+                           MS3/op09n14swv319_Ich_beuge_meine_Knie_gegen_dem_Vater.mscx               36   36      3/4         V/VII       (7, 11, 8)          ()        3.0          0.0     1.000000
+                           MS3/op09n14swv319_Ich_beuge_meine_Knie_gegen_dem_Vater.mscx               37   37        0           VII       (6, 10, 7)          ()        7.0          0.0     1.000000
+                           MS3/op09n14swv319_Ich_beuge_meine_Knie_gegen_dem_Vater.mscx               37   37      3/4        V6/VII       (11, 8, 7)          ()        3.0          0.0     1.000000
+                           MS3/op09n14swv319_Ich_beuge_meine_Knie_gegen_dem_Vater.mscx               41   41      3/4         V/VII       (7, 11, 8)          ()        2.0          0.0     1.000000
+                           MS3/op09n14swv319_Ich_beuge_meine_Knie_gegen_dem_Vater.mscx               42   42        0           VII       (6, 10, 7)          ()        2.0          0.0     1.000000
+                           MS3/op09n18swv323_Joseph,_du_Sohn_David.mscx                              12   12      1/4  #viio6(4)/iv       (-1, 1, 7)          ()        2.0          1.0     0.666667
+                           MS3/op09n18swv323_Joseph,_du_Sohn_David.mscx                              45   45      3/4            v6        (1, 5, 4)          ()        3.0          1.0     0.750000
+                           MS3/op09n18swv323_Joseph,_du_Sohn_David.mscx                              58   58      3/4         #vio6        (3, 0, 6)          ()        3.0          0.0     1.000000
+                           MS3/op09n21swv326_Ich_ruf_zu_dir,_Herr_Jesu_Christ.mscx                   67   67      1/4          vi64     (-2, -3, -6)          ()        2.0          1.0     0.666667
+                           MS3/op09n23swv328_Veni,_Sancte_Spiritus.mscx                              12   12      1/2          ii/V        (4, 1, 5)          ()        2.0          1.0     0.666667
+                           MS3/op09n23swv328_Veni,_Sancte_Spiritus.mscx                              38   38      3/4           V/V        (3, 7, 4)          ()        5.0          0.0     1.000000
+                           MS3/op09n25swv330_Wer_will_uns_scheiden_von_der_Liebe_Gottes.mscx         38   38      1/4            vi     (-3, -6, -2)          ()        2.0          0.0     1.000000
+                           MS3/op09n26swv331_Die_Stimm_des_Herren_gehet_auf_den_Wassern.mscx         39   39      1/2            vi     (-2, -5, -1)          ()        2.0          0.0     1.000000
+                           MS3/op09n27swv332_Jubilate_Deo_omnis_terra.mscx                           48   48        0           bVI     (-5, -1, -4)          ()        3.0          0.0     1.000000
+                           MS3/op09n27swv332_Jubilate_Deo_omnis_terra.mscx                           83   83      3/4      viio6/ii     (-4, -7, -1)          ()        5.0          0.0     1.000000
+                           MS3/op09n27swv332_Jubilate_Deo_omnis_terra.mscx                          123  123      1/2           III        (3, 7, 4)          ()        4.0          1.0     0.800000
+                           MS3/op09n28swv333_Sei_gegrüßet,_Maria.mscx                               137  137        1          V6/V        (7, 4, 3)          ()        3.0          0.0     1.000000
+                           MS3/op09n29swv334_Ave_Maria,_qualis_est.mscx                             132  132        1          V6/V        (7, 4, 3)          ()        2.0          0.0     1.000000
+                           MS3/op09n31swv336_Quemadmodum_desiderat_cervus.mscx                       21   21      1/2       V(4)/ii        (4, 3, 5)          ()        2.0          1.0     0.666667
+                           MS3/op09n31swv336_Quemadmodum_desiderat_cervus.mscx                       66   66      1/4          V/ii        (4, 8, 5)          ()        3.0          1.0     0.750000
+                           MS3/op09n31swv336_Quemadmodum_desiderat_cervus.mscx                      105  105      1/4            IV        (0, 4, 1)          ()        6.0          0.0     1.000000
+                           MS3/op09n31swv336_Quemadmodum_desiderat_cervus.mscx                      105  105      1/2          V/IV        (1, 5, 2)          ()        6.0          0.0     1.000000
+                           MS3/op09n31swv336_Quemadmodum_desiderat_cervus.mscx                      106  106        0          IV\\        (0, 4, 1)          ()       12.0          1.0     0.923077
+                           MS3/op09n32swv337_Aufer_immensam.mscx                                    145  145      1/8        vii%43  (-5, -1, 1, -2)          ()        2.0          1.0     0.666667
