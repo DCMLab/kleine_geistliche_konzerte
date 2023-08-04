@@ -1,0 +1,27 @@
+{
+  "name": "op08n11swv292_der_herr_schauet_vom_himmel_auf_der_menschen_kinder.harmonies",
+  "type": "table",
+  "path": "op08n11swv292_Der_Herr_schauet_vom_Himmel_auf_der_Menschen_Kinder.harmonies.tsv",
+  "scheme": "file",
+  "format": "tsv",
+  "mediatype": "text/tsv",
+  "encoding": "utf-8",
+  "dialect": {
+    "csv": {
+      "delimiter": "\t"
+    }
+  },
+  "schema": "https://raw.githubusercontent.com/johentsch/ms3/main/schemas/harmonies/E9wfY0zEL3wM7w.schema.yaml",
+  "creator": {
+    "@context": "https://schema.org/",
+    "@type": "SoftwareApplication",
+    "@id": "https://github.com/johentsch/ms3",
+    "name": "ms3",
+    "description": "A parser for MuseScore 3 files and data factory for annotated music corpora.",
+    "author": {
+      "name": "Johannes Hentschel",
+      "@id": "https://orcid.org/0000-0002-1986-9545"
+    },
+    "softwareVersion": "2.0.1"
+  }
+}
