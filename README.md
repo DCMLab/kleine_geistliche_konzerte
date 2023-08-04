@@ -70,7 +70,7 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 | 32|Aufer immensam                               |337|     5|SATTB          |
 
 
-# Overview
+## Overview
 |                            file_name                            |measures|labels|standard| annotators |
 |-----------------------------------------------------------------|-------:|-----:|--------|------------|
 |op08n01swv282_Eile_mich,_Gott,_zu_erretten                       |      68|    84|2.1.1   |Adrian Nagel|
@@ -131,4 +131,4 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 |op09n32swv337_Aufer_immensam                                     |     166|   428|2.1.1   |Adrian Nagel|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.4.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
