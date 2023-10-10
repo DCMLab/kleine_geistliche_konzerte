@@ -131,4 +131,4 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 |op09n32swv337_Aufer_immensam                                     |     166|   428|2.1.1   |Adrian Nagel|
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*

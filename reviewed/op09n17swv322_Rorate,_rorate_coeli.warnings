@@ -1,0 +1,7 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n17swv322_Rorate,_rorate_coeli
+	mc 7: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [3].
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.kleine_geistliche_konzerte.op09n17swv322_Rorate,_rorate_coeli
+	No metronome mark found in the first measure nor anywhere else in the score.
