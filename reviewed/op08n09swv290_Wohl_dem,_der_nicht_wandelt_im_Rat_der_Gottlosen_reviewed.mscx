@@ -184,6 +184,7 @@
         <trackName></trackName>
         <instrumentId>voice.soprano</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -205,6 +206,7 @@
         <trackName></trackName>
         <instrumentId>voice.alto</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -223,6 +225,7 @@
         <trackName></trackName>
         <instrumentId>strings.cello</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
@@ -4954,7 +4957,7 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <text>ja.</text>
               </Lyrics>
@@ -4963,9 +4966,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
@@ -9986,7 +9986,7 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <text>ja.</text>
               </Lyrics>
@@ -9995,9 +9995,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
@@ -14160,15 +14157,12 @@
             <name>i\\-I\\</name>
             </Harmony>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
