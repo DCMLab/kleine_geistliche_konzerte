@@ -41,6 +41,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
@@ -146,7 +147,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.6</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -183,6 +183,7 @@
         <trackName></trackName>
         <instrumentId>voice.soprano</instrumentId>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
           </Channel>
@@ -204,6 +205,7 @@
         <trackName></trackName>
         <instrumentId>voice.tenor</instrumentId>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
           </Channel>
@@ -221,7 +223,12 @@
         <trackName></trackName>
         <instrumentId>strings.cello</instrumentId>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="42"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -240,22 +247,28 @@
           <StaffText>
             <family>Times New Roman</family>
             <size>19</size>
-            <offset x="40.4785" y="-14.2686"/>
+            <offset x="19.162" y="-15.0122"/>
             <text>Schaffe in mir, Gott, SWV 291</text>
             </StaffText>
           <StaffText>
             <family>Times New Roman</family>
             <size>11</size>
-            <offset x="90.721" y="-16.0511"/>
+            <offset x="85.6397" y="-14.44"/>
             <text>Heinrich Schütz
 (1585-1672)</text>
             </StaffText>
           <StaffText>
             <family>Times New Roman</family>
             <size>11</size>
-            <offset x="-22.5" y="-15.0614"/>
+            <offset x="-9.48704" y="-6.63396"/>
             <text>Psalm 51: 10-12</text>
             </StaffText>
+          <Tempo>
+            <tempo>2.5333333333333332</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 152</b></text>
+            </Tempo>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -1836,6 +1849,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <offset x="0" y="3.12393"/>
               <text>und</text>
               </Lyrics>
             <Note>
@@ -2870,7 +2884,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <text>mich.</text>
               </Lyrics>
@@ -2879,9 +2893,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
@@ -5388,7 +5399,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <text>mich.</text>
               </Lyrics>
@@ -5397,9 +5408,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
@@ -5710,14 +5718,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -7386,15 +7394,12 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/1</fractions>
-            </location>
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
