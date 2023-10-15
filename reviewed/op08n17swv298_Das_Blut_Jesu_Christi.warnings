@@ -1,7 +1,0 @@
-Warnings encountered during the last execution of ms3 review
-============================================================
-
-MISSING_TIME_SIGNATURE_WARNING (23,) ms3.Parse.kleine_geistliche_konzerte.op08n17swv298_Das_Blut_Jesu_Christi
-	No time signature specified. Wild-guessing it's the default 4/4.
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.kleine_geistliche_konzerte.op08n17swv298_Das_Blut_Jesu_Christi
-	No metronome mark found in the first measure nor anywhere else in the score.
