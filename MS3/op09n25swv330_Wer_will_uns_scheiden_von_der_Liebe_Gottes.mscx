@@ -184,6 +184,7 @@
         <trackName></trackName>
         <instrumentId>voice.soprano</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -206,6 +207,7 @@
         <trackName></trackName>
         <instrumentId>voice.alto</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -225,6 +227,7 @@
         <trackName></trackName>
         <instrumentId>voice.tenor</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -244,6 +247,7 @@
         <trackName></trackName>
         <instrumentId>voice.bass</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -262,6 +266,7 @@
         <trackName></trackName>
         <instrumentId>strings.cello</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
@@ -309,7 +314,7 @@
             <tempo>1.6666666666666667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
             </Tempo>
           <Chord>
             <durationType>half</durationType>
@@ -13417,7 +13422,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
