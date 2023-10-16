@@ -131,7 +131,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 45	45	179	179	1.0	3/4	3/4	4/4	5	1	V/ii		F	I		V/ii	V				ii			M	0	0	3, 7, 4		3	3
 46	46	180	180	7.0	0	0	4/4	5	1	ii\\		F	I		ii	ii						\\	m	0	0	2, -1, 3		2	2
 47	47	187	187	1.0	3/4	3/4	4/4	5	1	vi6		F	I		vi6	vi		6					m	0	0	0, 4, 3		3	0
-48	48	188	188	1.0	0	0	4/4	5	1	bVI		F	I		bVI	bVI							M	0	0	-4, 0, -3		-4	-4
+48	48	188	188	1.0	0	0	4/4	5	1	bVII		F	I		bVII	bVII							M	0	0	-2, 2, -1		-2	-2
 48	48	189	189	1.0	1/4	1/4	4/4	5	1	ii64		F	I		ii64	ii		64					m	0	0	3, 2, -1		2	3
 48	48	190	190	1.0	1/2	1/2	4/4	5	1	V7		F	I		V7	V		7					Mm7	0	0	1, 5, 2, -1		1	1
 48	48	191	191	1.0	3/4	3/4	4/4	5	1	iii	I6	F	I		iii	iii							m	0	0	4, 1, 5		4	4
@@ -230,7 +230,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 82	82	354	354	1.0	1	1	3/2	5	1	vi6		F	I		vi6	vi		6					m	0	0	0, 4, 3		3	0
 82	82	355	355	1.0	5/4	5/4	3/2	5	1	V7/V		F	I		V7/V	V		7		V			Mm7	0	0	2, 6, 3, 0		2	2
 83	83	356	356	3.0	0	0	3/2	5	1	vi/V		F	I		vi/V	vi				V			m	0	0	4, 1, 5		4	4
-83	83	359	359	1.0	3/4	3/4	3/2	5	1	viio6/ii		F	I		viio6/ii	vii	o	6		ii			o	0	0	-3, -6, 0		0	-3
+83	83	359	359	1.0	3/4	3/4	3/2	5	1	#viio6/ii		F	I		#viio6/ii	#vii	o	6		ii			o	0	0	4, 1, 7		7	4
 83	83	360	360	2.0	1	1	3/2	5	1	V/V		F	I		V/V	V				V			M	0	0	2, 6, 3		2	2
 84	84	362	362	7.0	0	0	4/4	5	1	V\\		F	I		V	V						\\	M	0	0	1, 5, 2		1	1
 85	85	369	369	1.0	3/4	3/4	4/4	5	1	#viio/vi		F	I		#viio/vi	#vii	o			vi			o	0	0	8, 5, 2		8	8
@@ -335,7 +335,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 122	122	514	514	2.0	0	0	4/4	5	1	vi6		F	I		vi6	vi		6					m	0	0	0, 4, 3		3	0
 122	122	516	516	2.0	1/2	1/2	4/4	5	1	v6		F	I		v6	v		6					m	0	0	-2, 2, 1		1	-2
 123	123	518	518	2.0	0	0	4/4	5	1	vi	III6	F	I		vi	vi							m	0	0	3, 0, 4		3	3
-123	123	520	520	2.0	1/2	1/2	4/4	5	1	III		F	I		III	III							M	0	0	4, 8, 5		4	4
+123	123	520	520	2.0	1/2	1/2	4/4	5	1	IV		F	I		IV	IV							M	0	0	-1, 3, 0		-1	-1
 124	124	522	522	4.0	0	0	4/4	5	1	I		F	I		I	I							M	0	0	0, 4, 1		0	0
 125	125	526	526	1.0	0	0	4/4	5	1	V		F	I		V	V							M	0	0	1, 5, 2		1	1
 125	125	527	527	1.0	1/4	1/4	4/4	5	1	V(64)		F	I		V(64)	V			64				M	0	0	1, 0, 4		1	1
