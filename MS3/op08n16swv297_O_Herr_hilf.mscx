@@ -298,7 +298,7 @@
             <tempo>2</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 120</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 120</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>
@@ -2681,7 +2681,7 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <text>he.</text>
               </Lyrics>
@@ -4804,7 +4804,7 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <text>he.</text>
               </Lyrics>
@@ -6669,7 +6669,7 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <text>he.</text>
               </Lyrics>
@@ -9322,7 +9322,7 @@
             <name>I\\</name>
             </Harmony>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>

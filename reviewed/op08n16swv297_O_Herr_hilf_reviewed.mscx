@@ -2698,7 +2698,7 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <text>he.</text>
               </Lyrics>
@@ -4832,7 +4832,7 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <text>he.</text>
               </Lyrics>
@@ -6707,7 +6707,7 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <text>he.</text>
               </Lyrics>
@@ -9364,7 +9364,7 @@
             <name>I\\</name>
             </Harmony>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
