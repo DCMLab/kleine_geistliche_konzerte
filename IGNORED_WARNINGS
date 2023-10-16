@@ -12,3 +12,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 105, '3/4', 'V/iv') ms3.Parse.
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 107, '3/4', 'V/III') ms3.Parse.kleine_geistliche_konzerte.op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen
 	The label V/III in m.107 is correct according to the Figures in the Baerenreiter
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 41, '1/2', 'i') ms3.Parse.kleine_geistliche_konzerte.op09n05swv310_Ich_liege_und_schlafe
+	The label i in m.41 is plausible if the last two eighths are passing notes.
