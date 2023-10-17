@@ -90,7 +90,7 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 |op08n15swv296_Fürchte_dich_nicht                                 |      77|   167|2.1.1   |Adrian Nagel|
 |op08n16swv297_O_Herr_hilf                                        |      61|   170|2.1.1   |Adrian Nagel|
 |op08n17swv298_Das_Blut_Jesu_Christi                              |      38|     0|2.1.1   |Adrian Nagel|
-|op08n18swv299_Die_Gottseligkeit_ist_zu_allen_Dingen_nütz         |      52|    73|2.1.1   |Adrian Nagel|
+|op08n18swv299_Die_Gottseligkeit_ist_zu_allen_Dingen_nütz         |      51|    73|2.1.1   |Adrian Nagel|
 |op08n19swv300_Himmel_und_Erde_vergehen                           |      55|    91|2.1.1   |Adrian Nagel|
 |op08n20swv301_Nun_komm_der_Heiden_Heiland                        |      91|   165|2.1.1   |Adrian Nagel|
 |op08n21swv302_Ein_Kind_ist_uns_geboren                           |     126|   276|2.1.1   |Adrian Nagel|
