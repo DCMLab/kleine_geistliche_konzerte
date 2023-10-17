@@ -163,4 +163,4 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 86	86	370	370	1.0	1/2	1/2	4/4	5	1	#viio6(2)/iv		g	i		#viio6(2)/iv	#vii	o	6	2	iv			o	1	1	1, -2, -1		4	1
 86	86	371	371	1.0	3/4	3/4	4/4	5	1	#viio6/iv		g	i		#viio6/iv	#vii	o	6		iv			o	1	1	1, -2, 4		4	1
 87	87	372	372	12.0	0	0	4/4	5	1	iv		g	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
-90	90	384	384	8.0	0	0	4/4	5	1	I\\		g	i		I	I						\\	M	1	1	0, 4, 1		0	0
+90	90	384	384	4.0	0	0	4/4	5	1	I\\		g	i		I	I						\\	M	1	1	0, 4, 1		0	0
