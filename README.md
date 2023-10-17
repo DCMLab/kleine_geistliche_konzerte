@@ -123,7 +123,7 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 |op09n24swv329_Ist_Gott_für_uns                                   |      76|   192|2.1.1   |Adrian Nagel|
 |op09n25swv330_Wer_will_uns_scheiden_von_der_Liebe_Gottes         |      79|   178|2.1.1   |Adrian Nagel|
 |op09n26swv331_Die_Stimm_des_Herren_gehet_auf_den_Wassern         |     138|   237|2.1.1   |Adrian Nagel|
-|op09n27swv332_Jubilate_Deo_omnis_terra                           |     131|   351|2.1.1   |Adrian Nagel|
+|op09n27swv332_Jubilate_Deo_omnis_terra                           |     130|   351|2.1.1   |Adrian Nagel|
 |op09n28swv333_Sei_gegrüßet,_Maria                                |     221|   376|2.1.1   |Adrian Nagel|
 |op09n29swv334_Ave_Maria,_qualis_est                              |     215|   376|2.1.1   |Adrian Nagel|
 |op09n30swv335_Was_betrübst_du_dich,_meine_Seele                  |      88|   194|2.1.1   |Adrian Nagel|

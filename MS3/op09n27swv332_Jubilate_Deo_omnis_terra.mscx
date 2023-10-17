@@ -184,6 +184,7 @@
         <trackName></trackName>
         <instrumentId>voice.soprano</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -207,6 +208,7 @@
         <trackName></trackName>
         <instrumentId>voice.alto</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -226,6 +228,7 @@
         <trackName></trackName>
         <instrumentId>voice.tenor</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -244,6 +247,7 @@
         <trackName></trackName>
         <instrumentId>voice.bass</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -261,6 +265,7 @@
         <trackName></trackName>
         <instrumentId>strings.cello</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
@@ -310,7 +315,7 @@
             <visible>0</visible>
             <minDistance>-8.34278</minDistance>
             <offset x="-5.49324" y="-5.94027"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 116</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 116</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
@@ -6865,20 +6870,6 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
       </Staff>
     <Staff id="2">
       <Measure>
@@ -13145,17 +13136,6 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
       </Staff>
     <Staff id="3">
       <Measure>
@@ -19146,17 +19126,6 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
       </Staff>
     <Staff id="4">
       <Measure>
@@ -23979,17 +23948,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -29391,17 +29349,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
