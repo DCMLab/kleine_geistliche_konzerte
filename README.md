@@ -86,7 +86,7 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 |op08n11swv292_Der_Herr_schauet_vom_Himmel_auf_der_Menschen_Kinder|      81|   135|2.1.1   |Adrian Nagel|
 |op08n12swv293_Lobet_den_Herren,_der_zu_Zion_wohnet               |      80|   137|2.1.1   |Adrian Nagel|
 |op08n13swv294_Eins_bitte_ich_vom_Herren                          |      86|   165|2.1.1   |Adrian Nagel|
-|op08n14swv295_O_hilf,_Christe_Gottes_Sohn                        |      82|   121|2.1.1   |Adrian Nagel|
+|op08n14swv295_O_hilf,_Christe_Gottes_Sohn                        |      81|   121|2.1.1   |Adrian Nagel|
 |op08n15swv296_Fürchte_dich_nicht                                 |      78|   167|2.1.1   |Adrian Nagel|
 |op08n16swv297_O_Herr_hilf                                        |      62|   170|2.1.1   |Adrian Nagel|
 |op08n17swv298_Das_Blut_Jesu_Christi                              |      38|     0|2.1.1   |Adrian Nagel|
