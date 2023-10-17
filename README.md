@@ -98,7 +98,7 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 |op08n23swv304_Siehe,_mein_Fürsprecher_im_Himmel                  |      93|   172|2.1.1   |Adrian Nagel|
 |op08n24swv305_Ich_hab_mein_Sach_Gott_heimgestellt                |     299|   573|2.1.1   |Adrian Nagel|
 |op09n01swv306_Ich_will_den_Herren_loben_allezeit                 |      85|   218|2.1.1   |Adrian Nagel|
-|op09n02swv307_Was_hast_du_verwirket                              |      83|   184|2.1.1   |Adrian Nagel|
+|op09n02swv307_Was_hast_du_verwirket                              |      82|   184|2.1.1   |Adrian Nagel|
 |op09n03swv308_O_Jesu,_nomen_dulce                                |      66|   149|2.1.1   |Adrian Nagel|
 |op09n04swv309_O_misericordissime_Jesu                            |      92|   181|2.1.1   |Adrian Nagel|
 |op09n05swv310_Ich_liege_und_schlafe                              |      86|   179|2.1.1   |Adrian Nagel|
