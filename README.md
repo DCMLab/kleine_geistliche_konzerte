@@ -78,7 +78,7 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 |op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen              |     114|   237|2.1.1   |Adrian Nagel|
 |op08n04swv285_O_süsser,_o_freundlicher                           |     107|   193|2.1.1   |Adrian Nagel|
 |op08n05swv286_Der_Herr_ist_gross                                 |      74|   139|2.1.1   |Adrian Nagel|
-|op08n06swv287_O_lieber_Herre_Gott                                |      97|   199|2.1.1   |Adrian Nagel|
+|op08n06swv287_O_lieber_Herre_Gott                                |      96|   199|2.1.1   |Adrian Nagel|
 |op08n07swv288_Ihr_Heiligen,_lobsinget_dem_Herren                 |      82|   145|2.1.1   |Adrian Nagel|
 |op08n08swv289_Erhöre_mich,_wenn_ich_rufe                         |      66|   128|2.1.1   |Adrian Nagel|
 |op08n09swv290_Wohl_dem,_der_nicht_wandelt_im_Rat_der_Gottlosen   |     134|   242|2.1.1   |Adrian Nagel|
