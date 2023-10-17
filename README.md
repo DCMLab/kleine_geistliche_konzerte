@@ -127,7 +127,7 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 |op09n28swv333_Sei_gegrüßet,_Maria                                |     220|   376|2.1.1   |Adrian Nagel|
 |op09n29swv334_Ave_Maria,_qualis_est                              |     215|   376|2.1.1   |Adrian Nagel|
 |op09n30swv335_Was_betrübst_du_dich,_meine_Seele                  |      87|   194|2.1.1   |Adrian Nagel|
-|op09n31swv336_Quemadmodum_desiderat_cervus                       |     190|   478|2.1.1   |Adrian Nagel|
+|op09n31swv336_Quemadmodum_desiderat_cervus                       |     189|   478|2.1.1   |Adrian Nagel|
 |op09n32swv337_Aufer_immensam                                     |     166|   428|2.1.1   |Adrian Nagel|
 
 
