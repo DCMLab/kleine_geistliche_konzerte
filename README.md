@@ -94,7 +94,7 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 |op08n19swv300_Himmel_und_Erde_vergehen                           |      54|    91|2.1.1   |Adrian Nagel|
 |op08n20swv301_Nun_komm_der_Heiden_Heiland                        |      90|   165|2.1.1   |Adrian Nagel|
 |op08n21swv302_Ein_Kind_ist_uns_geboren                           |     125|   276|2.1.1   |Adrian Nagel|
-|op08n22swv303_Wir_glauben_all_an_einen_Gott                      |     121|   281|2.1.1   |Adrian Nagel|
+|op08n22swv303_Wir_glauben_all_an_einen_Gott                      |     120|   281|2.1.1   |Adrian Nagel|
 |op08n23swv304_Siehe,_mein_Fürsprecher_im_Himmel                  |      94|   172|2.1.1   |Adrian Nagel|
 |op08n24swv305_Ich_hab_mein_Sach_Gott_heimgestellt                |     300|   573|2.1.1   |Adrian Nagel|
 |op09n01swv306_Ich_will_den_Herren_loben_allezeit                 |      85|   218|2.1.1   |Adrian Nagel|

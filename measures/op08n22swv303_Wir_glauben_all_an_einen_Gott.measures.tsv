@@ -118,5 +118,4 @@ mc	mn	quarterbeats	duration_qb	keysig	timesig	act_dur	mc_offset	numbering_offset
 117	117	478	4.0	0	4/4	1	0						118
 118	118	482	4.0	0	4/4	1	0						119
 119	119	486	4.0	0	4/4	1	0						120
-120	120	490	4.0	0	4/4	1	0						121
-121	121	494	4.0	0	4/4	1	0			end		lastMeasure	-1
+120	120	490	4.0	0	4/4	1	0					lastMeasure	-1
