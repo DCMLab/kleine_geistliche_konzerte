@@ -183,6 +183,7 @@
         <trackName></trackName>
         <instrumentId>wind.group</instrumentId>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
           </Channel>
@@ -200,6 +201,7 @@
         <trackName></trackName>
         <instrumentId>wind.group</instrumentId>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
           </Channel>
@@ -218,6 +220,7 @@
         <trackName></trackName>
         <instrumentId>voice.bass</instrumentId>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
           </Channel>
@@ -235,6 +238,7 @@
         <trackName></trackName>
         <instrumentId>strings.cello</instrumentId>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
           </Channel>
@@ -250,6 +254,11 @@
           <KeySig>
             <accidental>-1</accidental>
             </KeySig>
+          <TimeSig>
+            <subtype>1</subtype>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <StaffText>
             <family>Times New Roman</family>
             <size>11</size>
@@ -269,6 +278,12 @@
             <offset x="35.625" y="-6.15625"/>
             <text>Das Blut Jesu Christi, SWV 298</text>
             </StaffText>
+          <Tempo>
+            <tempo>2.8666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 172</b></text>
+            </Tempo>
           <Rest>
             <durationType>breve</durationType>
             </Rest>
@@ -1887,6 +1902,11 @@
           <KeySig>
             <accidental>-1</accidental>
             </KeySig>
+          <TimeSig>
+            <subtype>1</subtype>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Rest>
             <durationType>breve</durationType>
             </Rest>
@@ -2336,7 +2356,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>8/4</duration>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2531,7 +2551,7 @@
             </Clef>
           <Rest>
             <durationType>measure</durationType>
-            <duration>8/4</duration>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -3564,6 +3584,11 @@
           <KeySig>
             <accidental>-1</accidental>
             </KeySig>
+          <TimeSig>
+            <subtype>1</subtype>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <durationType>whole</durationType>
             <Lyrics>
@@ -4099,7 +4124,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>8/4</duration>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -4107,7 +4132,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>8/4</duration>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -4781,7 +4806,7 @@
             </Clef>
           <Rest>
             <durationType>measure</durationType>
-            <duration>8/4</duration>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -5158,6 +5183,11 @@
           <KeySig>
             <accidental>-1</accidental>
             </KeySig>
+          <TimeSig>
+            <subtype>1</subtype>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <durationType>whole</durationType>
             <Note>

@@ -1,0 +1,5 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n27swv332_Jubilate_Deo_omnis_terra
+	mc 8: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [4].

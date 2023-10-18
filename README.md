@@ -76,29 +76,29 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 |op08n01swv282_Eile_mich,_Gott,_zu_erretten                       |      68|    84|2.1.1   |Adrian Nagel|
 |op08n02swv283_Bringt_her_dem_Herren                              |      89|   176|2.1.1   |Adrian Nagel|
 |op08n03swv284_Ich_danke_dem_Herrn_von_ganzem_Herzen              |     114|   237|2.1.1   |Adrian Nagel|
-|op08n04swv285_O_süsser,_o_freundlicher                           |     108|   193|2.1.1   |Adrian Nagel|
-|op08n05swv286_Der_Herr_ist_gross                                 |      75|   139|2.1.1   |Adrian Nagel|
-|op08n06swv287_O_lieber_Herre_Gott                                |      97|   199|2.1.1   |Adrian Nagel|
-|op08n07swv288_Ihr_Heiligen,_lobsinget_dem_Herren                 |      82|   145|2.1.1   |Adrian Nagel|
-|op08n08swv289_Erhöre_mich,_wenn_ich_rufe                         |      66|   128|2.1.1   |Adrian Nagel|
+|op08n04swv285_O_süsser,_o_freundlicher                           |     107|   193|2.1.1   |Adrian Nagel|
+|op08n05swv286_Der_Herr_ist_gross                                 |      74|   139|2.1.1   |Adrian Nagel|
+|op08n06swv287_O_lieber_Herre_Gott                                |      96|   199|2.1.1   |Adrian Nagel|
+|op08n07swv288_Ihr_Heiligen,_lobsinget_dem_Herren                 |      81|   145|2.1.1   |Adrian Nagel|
+|op08n08swv289_Erhöre_mich,_wenn_ich_rufe                         |      65|   128|2.1.1   |Adrian Nagel|
 |op08n09swv290_Wohl_dem,_der_nicht_wandelt_im_Rat_der_Gottlosen   |     134|   242|2.1.1   |Adrian Nagel|
 |op08n10swv291_Schaffe_in_mir,_Gott,_ein_reines_Herz              |      68|   104|2.1.1   |Adrian Nagel|
-|op08n11swv292_Der_Herr_schauet_vom_Himmel_auf_der_Menschen_Kinder|      82|   135|2.1.1   |Adrian Nagel|
-|op08n12swv293_Lobet_den_Herren,_der_zu_Zion_wohnet               |      81|   137|2.1.1   |Adrian Nagel|
-|op08n13swv294_Eins_bitte_ich_vom_Herren                          |      87|   165|2.1.1   |Adrian Nagel|
-|op08n14swv295_O_hilf,_Christe_Gottes_Sohn                        |      82|   121|2.1.1   |Adrian Nagel|
-|op08n15swv296_Fürchte_dich_nicht                                 |      78|   167|2.1.1   |Adrian Nagel|
-|op08n16swv297_O_Herr_hilf                                        |      62|   170|2.1.1   |Adrian Nagel|
+|op08n11swv292_Der_Herr_schauet_vom_Himmel_auf_der_Menschen_Kinder|      81|   135|2.1.1   |Adrian Nagel|
+|op08n12swv293_Lobet_den_Herren,_der_zu_Zion_wohnet               |      80|   137|2.1.1   |Adrian Nagel|
+|op08n13swv294_Eins_bitte_ich_vom_Herren                          |      86|   165|2.1.1   |Adrian Nagel|
+|op08n14swv295_O_hilf,_Christe_Gottes_Sohn                        |      81|   121|2.1.1   |Adrian Nagel|
+|op08n15swv296_Fürchte_dich_nicht                                 |      77|   167|2.1.1   |Adrian Nagel|
+|op08n16swv297_O_Herr_hilf                                        |      61|   170|2.1.1   |Adrian Nagel|
 |op08n17swv298_Das_Blut_Jesu_Christi                              |      38|     0|2.1.1   |Adrian Nagel|
-|op08n18swv299_Die_Gottseligkeit_ist_zu_allen_Dingen_nütz         |      52|    73|2.1.1   |Adrian Nagel|
-|op08n19swv300_Himmel_und_Erde_vergehen                           |      55|    91|2.1.1   |Adrian Nagel|
-|op08n20swv301_Nun_komm_der_Heiden_Heiland                        |      91|   165|2.1.1   |Adrian Nagel|
-|op08n21swv302_Ein_Kind_ist_uns_geboren                           |     126|   276|2.1.1   |Adrian Nagel|
-|op08n22swv303_Wir_glauben_all_an_einen_Gott                      |     121|   281|2.1.1   |Adrian Nagel|
-|op08n23swv304_Siehe,_mein_Fürsprecher_im_Himmel                  |      94|   172|2.1.1   |Adrian Nagel|
-|op08n24swv305_Ich_hab_mein_Sach_Gott_heimgestellt                |     300|   573|2.1.1   |Adrian Nagel|
+|op08n18swv299_Die_Gottseligkeit_ist_zu_allen_Dingen_nütz         |      51|    73|2.1.1   |Adrian Nagel|
+|op08n19swv300_Himmel_und_Erde_vergehen                           |      54|    91|2.1.1   |Adrian Nagel|
+|op08n20swv301_Nun_komm_der_Heiden_Heiland                        |      90|   165|2.1.1   |Adrian Nagel|
+|op08n21swv302_Ein_Kind_ist_uns_geboren                           |     125|   276|2.1.1   |Adrian Nagel|
+|op08n22swv303_Wir_glauben_all_an_einen_Gott                      |     120|   281|2.1.1   |Adrian Nagel|
+|op08n23swv304_Siehe,_mein_Fürsprecher_im_Himmel                  |      93|   172|2.1.1   |Adrian Nagel|
+|op08n24swv305_Ich_hab_mein_Sach_Gott_heimgestellt                |     299|   573|2.1.1   |Adrian Nagel|
 |op09n01swv306_Ich_will_den_Herren_loben_allezeit                 |      85|   218|2.1.1   |Adrian Nagel|
-|op09n02swv307_Was_hast_du_verwirket                              |      83|   184|2.1.1   |Adrian Nagel|
+|op09n02swv307_Was_hast_du_verwirket                              |      82|   184|2.1.1   |Adrian Nagel|
 |op09n03swv308_O_Jesu,_nomen_dulce                                |      66|   149|2.1.1   |Adrian Nagel|
 |op09n04swv309_O_misericordissime_Jesu                            |      92|   181|2.1.1   |Adrian Nagel|
 |op09n05swv310_Ich_liege_und_schlafe                              |      86|   179|2.1.1   |Adrian Nagel|
@@ -123,12 +123,12 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 |op09n24swv329_Ist_Gott_für_uns                                   |      76|   192|2.1.1   |Adrian Nagel|
 |op09n25swv330_Wer_will_uns_scheiden_von_der_Liebe_Gottes         |      79|   178|2.1.1   |Adrian Nagel|
 |op09n26swv331_Die_Stimm_des_Herren_gehet_auf_den_Wassern         |     138|   237|2.1.1   |Adrian Nagel|
-|op09n27swv332_Jubilate_Deo_omnis_terra                           |     131|   351|2.1.1   |Adrian Nagel|
-|op09n28swv333_Sei_gegrüßet,_Maria                                |     221|   376|2.1.1   |Adrian Nagel|
+|op09n27swv332_Jubilate_Deo_omnis_terra                           |     130|   351|2.1.1   |Adrian Nagel|
+|op09n28swv333_Sei_gegrüßet,_Maria                                |     220|   376|2.1.1   |Adrian Nagel|
 |op09n29swv334_Ave_Maria,_qualis_est                              |     215|   376|2.1.1   |Adrian Nagel|
-|op09n30swv335_Was_betrübst_du_dich,_meine_Seele                  |      88|   194|2.1.1   |Adrian Nagel|
-|op09n31swv336_Quemadmodum_desiderat_cervus                       |     190|   478|2.1.1   |Adrian Nagel|
-|op09n32swv337_Aufer_immensam                                     |     166|   428|2.1.1   |Adrian Nagel|
+|op09n30swv335_Was_betrübst_du_dich,_meine_Seele                  |      87|   194|2.1.1   |Adrian Nagel|
+|op09n31swv336_Quemadmodum_desiderat_cervus                       |     189|   478|2.1.1   |Adrian Nagel|
+|op09n32swv337_Aufer_immensam                                     |     165|   428|2.1.1   |Adrian Nagel|
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*

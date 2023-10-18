@@ -1,0 +1,9 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op08n24swv305_Ich_hab_mein_Sach_Gott_heimgestellt
+	mc 13: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [4].
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op08n24swv305_Ich_hab_mein_Sach_Gott_heimgestellt
+	mc 79: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [5].
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op08n24swv305_Ich_hab_mein_Sach_Gott_heimgestellt
+	mc 94: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [6].

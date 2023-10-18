@@ -1,0 +1,5 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n16swv321_Herr,_wenn_ich_nur_dich
+	mc 20: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [3].

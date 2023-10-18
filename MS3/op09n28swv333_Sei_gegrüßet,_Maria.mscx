@@ -41,6 +41,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
@@ -146,7 +147,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.6</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -184,6 +184,8 @@
         <trackName></trackName>
         <instrumentId>wind.group</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
           </Channel>
@@ -205,6 +207,8 @@
         <trackName></trackName>
         <instrumentId>wind.group</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
           </Channel>
@@ -222,6 +226,8 @@
         <trackName></trackName>
         <instrumentId>voice.alto</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
           </Channel>
@@ -240,6 +246,8 @@
         <trackName></trackName>
         <instrumentId>voice.tenor</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
           </Channel>
@@ -258,6 +266,8 @@
         <trackName></trackName>
         <instrumentId>voice.bass</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
           </Channel>
@@ -275,7 +285,13 @@
         <trackName></trackName>
         <instrumentId>strings.cello</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="42"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -301,22 +317,28 @@
           <StaffText>
             <family>Times New Roman</family>
             <size>19</size>
-            <offset x="40.3611" y="-14.5796"/>
+            <offset x="17.8053" y="-14.9514"/>
             <text>Sei gegrüsset, Maria, SWV 333</text>
             </StaffText>
           <StaffText>
             <family>Times New Roman</family>
             <size>11</size>
-            <offset x="93.4947" y="-15.6002"/>
+            <offset x="83.3322" y="-14.9805"/>
             <text>Heinrich Schütz
 (1585-1672)</text>
             </StaffText>
           <StaffText>
             <family>Times New Roman</family>
             <size>11</size>
-            <offset x="-19.338" y="-14.319"/>
+            <offset x="-10.2909" y="-14.1951"/>
             <text>Luke 1: 28-32,34-38</text>
             </StaffText>
+          <Tempo>
+            <tempo>3.3333333333333335</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
+            </Tempo>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -5774,7 +5796,7 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <text>ja.</text>
               </Lyrics>
@@ -5783,17 +5805,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -11223,7 +11234,7 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <text>ja.</text>
               </Lyrics>
@@ -11232,17 +11243,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -15185,7 +15185,7 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>ja</text>
@@ -15195,17 +15195,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -18142,7 +18131,7 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>ja</text>
@@ -18152,17 +18141,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -21015,7 +20993,7 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>ja</text>
@@ -21025,17 +21003,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -21757,7 +21724,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -21795,7 +21762,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -21852,7 +21819,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -21917,7 +21884,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22084,7 +22051,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22129,7 +22096,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22168,7 +22135,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22226,7 +22193,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22276,7 +22243,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22295,7 +22262,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22377,7 +22344,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22422,7 +22389,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22448,7 +22415,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22493,7 +22460,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22577,7 +22544,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22730,7 +22697,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22847,7 +22814,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22920,7 +22887,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22947,7 +22914,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22985,7 +22952,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23036,7 +23003,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23067,7 +23034,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23105,7 +23072,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23208,7 +23175,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23311,7 +23278,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23346,7 +23313,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23373,7 +23340,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23400,7 +23367,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23463,7 +23430,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23494,7 +23461,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23521,7 +23488,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23564,7 +23531,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23591,7 +23558,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23632,7 +23599,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23651,7 +23618,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23681,7 +23648,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/V</name>
+            <name>V6</name>
             </Harmony>
           </voice>
         </Measure>
@@ -23696,7 +23663,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23722,7 +23689,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23741,7 +23708,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23806,7 +23773,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23832,7 +23799,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23858,7 +23825,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23884,7 +23851,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23910,7 +23877,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -24016,7 +23983,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -24083,7 +24050,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -24129,7 +24096,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -24215,7 +24182,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -24309,7 +24276,7 @@
             <duration>3/2</duration>
             </Rest>
           <location>
-            <fractions>-1</fractions>
+            <fractions>-1/1</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -24732,14 +24699,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -24964,14 +24931,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV/bVII</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV/bVII</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -25237,14 +25204,14 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -25527,14 +25494,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -25817,23 +25784,12 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <durationType>breve</durationType>
+            <durationType>whole</durationType>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>

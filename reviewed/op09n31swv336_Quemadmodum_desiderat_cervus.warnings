@@ -1,0 +1,9 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n31swv336_Quemadmodum_desiderat_cervus
+	mc 6: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [3].
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n31swv336_Quemadmodum_desiderat_cervus
+	mc 11: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [4].
+WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n31swv336_Quemadmodum_desiderat_cervus
+	mc 15: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [5].
