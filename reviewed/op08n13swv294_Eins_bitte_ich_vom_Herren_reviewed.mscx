@@ -5741,7 +5741,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V/ii</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.123933" y="-7.06439"/>
             </Harmony>
           <Chord>

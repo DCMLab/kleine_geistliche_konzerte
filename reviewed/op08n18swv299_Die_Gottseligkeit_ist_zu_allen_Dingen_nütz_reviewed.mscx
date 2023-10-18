@@ -4767,7 +4767,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V6(2)/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv(+2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Chord>
