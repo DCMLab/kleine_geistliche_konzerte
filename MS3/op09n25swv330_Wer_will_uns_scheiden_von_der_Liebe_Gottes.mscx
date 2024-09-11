@@ -288,6 +288,22 @@
       <VBox>
         <height>6</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Wer will uns scheiden von der Liebe Gottes</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte II, Op. 9, SWV 330</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Romans 8:35,38-39</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>

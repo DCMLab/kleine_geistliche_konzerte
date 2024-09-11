@@ -244,8 +244,24 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>19.7441</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Ihr Heiligen, lobsinget dem Herren</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte I, Op. 8, SWV 288</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Psalm 30: 4-6</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -256,25 +272,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="3.45579" y="-16.1878"/>
-            <text>Ihr Heiligen lobsinget dem Herren, SWV 288</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="82.2879" y="-13.5246"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-14.5811" y="-6.22652"/>
-            <text>Psalm 30: 4-6</text>
-            </StaffText>
           <Tempo>
             <tempo>2.6333333333333333</tempo>
             <followText>1</followText>

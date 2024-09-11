@@ -248,6 +248,22 @@
       <VBox>
         <height>6</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Eins bitte ich vom Herren</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte I, Op. 8, SWV 294</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Psalm 27: 4</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>

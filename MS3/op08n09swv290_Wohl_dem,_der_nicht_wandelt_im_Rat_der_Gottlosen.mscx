@@ -245,8 +245,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>14.3104</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Wohl dem, der nicht wandelt im Rat der Gottlosen</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte I, Op. 8, SWV 290</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -257,19 +269,6 @@
             <sigN>3</sigN>
             <sigD>2</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="11.837" y="-17.4909"/>
-            <text>Wohl dem, der nicht wandelt, SWV 290</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="85.7854" y="-14.8099"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>3.6000000000000001</tempo>
             <followText>1</followText>

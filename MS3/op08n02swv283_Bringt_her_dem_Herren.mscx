@@ -228,8 +228,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>16.0151</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Bringt her dem Herren</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte I, Op. 8, SWV 283</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -237,19 +249,6 @@
             <sigN>2</sigN>
             <sigD>2</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="40.6041" y="-13.9289"/>
-            <text>Bringt her dem Herren, SWV 283</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="91.2414" y="-11.4071"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>

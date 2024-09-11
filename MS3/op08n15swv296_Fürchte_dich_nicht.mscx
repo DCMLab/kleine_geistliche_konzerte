@@ -261,19 +261,6 @@
             <offset x="-7.1632" y="-9.30898"/>
             <text>Isaiah 41:10</text>
             </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="22.801" y="-13.3533"/>
-            <text>Fürchte dich nicht, SWV 296</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="83.6497" y="-12.8377"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>

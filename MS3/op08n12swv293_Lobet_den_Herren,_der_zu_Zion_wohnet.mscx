@@ -245,8 +245,24 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>15.6955</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Lobet den Herren, der zu Zion wohnet</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte I, Op. 8, SWV 293</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Psalm 9 :11-12</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -254,26 +270,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="87.3178" y="-14.8025"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="4.9395" y="-17.4944"/>
-            <text>Lobet den Herren der zu Zion wohnet, SWV 293</text>
-            </StaffText>
-          <StaffText>
-            <minDistance>-11.3724</minDistance>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-5.88445" y="-7.70945"/>
-            <text>Psalm 9: 11-12</text>
-            </StaffText>
           <Tempo>
             <tempo>2.7999999999999998</tempo>
             <followText>1</followText>

@@ -227,8 +227,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>16.5478</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Eile mich, Gott, zu erretten</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte I, Op. 8, SWV 282</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -242,19 +254,6 @@
             <italic>1</italic>
             <offset x="-17.6867" y="-10.4911"/>
             <text>In Stylo Oratorio</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="16.9431" y="-15.217"/>
-            <text>Eile mich, Gott, zu erretten SWV 282</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="87.1408" y="-12.5602"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
             </StaffText>
           <Tempo>
             <tempo>2</tempo>

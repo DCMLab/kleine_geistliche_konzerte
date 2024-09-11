@@ -245,8 +245,24 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>16.4713</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Der Herr schauet vom Himmel auf der Menschen Kinder</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Psalm 14 :2-3</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte I, Op. 8, SWV 292</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -254,25 +270,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="11.6216" y="-16.2196"/>
-            <text>Der Herr schauet vom Himmel, SWV 292</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="85.8346" y="-12.7049"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-14.1863" y="-6.37516"/>
-            <text>Psalm 14: 2-3</text>
-            </StaffText>
           <Tempo>
             <tempo>2.7999999999999998</tempo>
             <followText>1</followText>
