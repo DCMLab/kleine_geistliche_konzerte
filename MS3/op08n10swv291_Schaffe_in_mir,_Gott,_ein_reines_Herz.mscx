@@ -452,10 +452,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -1693,11 +1689,6 @@
         </Measure>
       <Measure>
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>4</sigN>
-            <sigD>2</sigD>
-            </TimeSig>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -1917,9 +1908,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
           <Rest>
             <durationType>whole</durationType>
             </Rest>
@@ -2718,9 +2706,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -2854,10 +2839,6 @@
           <Rest>
             <durationType>whole</durationType>
             </Rest>
-          <Clef>
-            <concertClefType>G8vb</concertClefType>
-            <transposingClefType>G8vb</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -4125,13 +4106,9 @@
         </Measure>
       <Measure>
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>4</sigN>
-            <sigD>2</sigD>
-            </TimeSig>
           <Rest>
-            <durationType>breve</durationType>
+            <durationType>measure</durationType>
+            <duration>4/2</duration>
             </Rest>
           </voice>
         </Measure>
@@ -5016,9 +4993,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -5299,10 +5273,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -6499,11 +6469,6 @@
         </Measure>
       <Measure>
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>4</sigN>
-            <sigD>2</sigD>
-            </TimeSig>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -6846,9 +6811,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>

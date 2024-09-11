@@ -246,7 +246,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>13.245</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -271,19 +271,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="6.79183" y="-18.3141"/>
-            <text>O hilf, Christe Gottes Sohn, SWV 295</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="78.9461" y="-14.1407"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>3.3333333333333335</tempo>
             <followText>1</followText>

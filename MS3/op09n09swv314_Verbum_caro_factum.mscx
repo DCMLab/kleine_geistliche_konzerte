@@ -248,7 +248,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>14.5235</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -272,19 +272,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="8.11781" y="-15.322"/>
-            <text>Verbum caro factum est, SWV 314</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="88.822" y="-14.6931"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>2.3999999999999999</tempo>
             <followText>1</followText>

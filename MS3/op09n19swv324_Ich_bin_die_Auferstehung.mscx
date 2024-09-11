@@ -265,7 +265,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>13.7172</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -290,25 +290,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-3.35808" y="-9.62877"/>
-            <text>John 11:25-26</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="16.225" y="-15.5051"/>
-            <text>Ich bin der Auferstehung, SWV 324</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="95.7304" y="-15.4312"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>1.8333333333333333</tempo>
             <followText>1</followText>

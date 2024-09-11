@@ -265,10 +265,6 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox>
-        <height>6</height>
-        <boxAutoSize>0</boxAutoSize>
-        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -278,25 +274,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="18.9651" y="-13.4712"/>
-            <text>Die Gottseligkeit, SWV 299</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="87.1585" y="-12.3092"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-4.02181" y="-9.44248"/>
-            <text>1 Timothy 4:8b</text>
-            </StaffText>
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>

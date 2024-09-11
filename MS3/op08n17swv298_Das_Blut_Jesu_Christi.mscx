@@ -257,7 +257,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>18.0002</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -286,25 +286,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-18.4942" y="-13.7477"/>
-            <text>1 John 1:7b</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="87.4688" y="-5.28125"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="35.625" y="-6.15625"/>
-            <text>Das Blut Jesu Christi, SWV 298</text>
-            </StaffText>
           <Tempo>
             <tempo>2.8666666666666667</tempo>
             <followText>1</followText>

@@ -227,7 +227,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>13.4581</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -251,19 +251,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="13.4893" y="-14.84"/>
-            <text>O Jesu, nomen dulce, SWV 308</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="83.2646" y="-14.6887"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>2.2000000000000002</tempo>
             <followText>1</followText>

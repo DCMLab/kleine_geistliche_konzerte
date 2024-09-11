@@ -285,10 +285,6 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox>
-        <height>6</height>
-        <boxAutoSize>0</boxAutoSize>
-        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -298,25 +294,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="44.7893" y="-13.5967"/>
-            <text>Ist Gott für uns, SWV 329</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-18.9325" y="-13.6773"/>
-            <text>Romans 8:31b-34</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="104.406" y="-17.0443"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <StaffText>
             <placement>below</placement>
             <family>Times New Roman</family>

@@ -282,7 +282,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>15.1628</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -310,26 +310,6 @@
             <sigN>3</sigN>
             <sigD>2</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="10.305" y="-16.8712"/>
-            <text>Nun komm, der Heiden Heiland, SWV 301</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="85.4492" y="-15.18"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-17.8884" y="-12.1599"/>
-            <text>Martin Luther
-(1483-1546)</text>
-            </StaffText>
           <Tempo>
             <tempo>2.7999999999999998</tempo>
             <followText>1</followText>

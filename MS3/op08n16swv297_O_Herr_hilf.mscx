@@ -270,7 +270,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>18.5721</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -298,25 +298,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="79.4336" y="-14.9038"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="19.7296" y="-15.2281"/>
-            <text>O Herr hilf, SWV 297</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-8.44494" y="-12.595"/>
-            <text>Psalm 118:25-26</text>
-            </StaffText>
           <Tempo>
             <tempo>2</tempo>
             <followText>1</followText>

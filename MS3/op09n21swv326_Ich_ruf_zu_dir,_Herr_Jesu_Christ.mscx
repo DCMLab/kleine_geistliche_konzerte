@@ -285,7 +285,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>14.4083</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -313,26 +313,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="16.659" y="-15.842"/>
-            <text>Ich ruf zu dir, SWV 326</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="89.1248" y="-15.4499"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-7.90394" y="-14.0156"/>
-            <text>Johann Agricola
-(1492-1566)</text>
-            </StaffText>
           <Tempo>
             <tempo>2.3999999999999999</tempo>
             <followText>1</followText>

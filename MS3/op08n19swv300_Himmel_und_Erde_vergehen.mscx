@@ -265,7 +265,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>15.1628</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -293,25 +293,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="9.36739" y="-17.8786"/>
-            <text>Himmel und Erde vergehen, SWV 300</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="81.6522" y="-15.9112"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-6.23398" y="-10.8783"/>
-            <text>Luke 21:33</text>
-            </StaffText>
           <Tempo>
             <tempo>2.6666666666666665</tempo>
             <followText>1</followText>

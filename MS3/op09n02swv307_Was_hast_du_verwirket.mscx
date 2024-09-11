@@ -226,7 +226,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>13.2898</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -247,19 +247,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="9.25703" y="-13.8367"/>
-            <text>Was hast du verwirket, SWV 307</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="90.3682" y="-13.5609"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>1.6000000000000001</tempo>
             <followText>1</followText>

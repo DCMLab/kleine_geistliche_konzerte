@@ -285,7 +285,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>15.5601</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -310,25 +310,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-6.31888" y="-9.17368"/>
-            <text>Psalm 29:3-9</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="17.2578" y="-16.4447"/>
-            <text>Die Stimm des Herren, SWV 331</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="94.3183" y="-15.4843"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>1.6666666666666667</tempo>
             <followText>1</followText>

@@ -245,7 +245,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>13.5646</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -273,26 +273,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="11.3576" y="-18.2942"/>
-            <text>Wann unsre Augen schlafe ein, SWV 316</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="85.0452" y="-17.1787"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-17.0371" y="-15.6627"/>
-            <text>Erasmus Alberus
-(c.1500-53)</text>
-            </StaffText>
           <Tempo>
             <tempo>2.2000000000000002</tempo>
             <followText>1</followText>

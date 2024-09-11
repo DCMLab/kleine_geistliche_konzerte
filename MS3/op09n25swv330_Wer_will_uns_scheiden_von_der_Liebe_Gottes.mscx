@@ -286,7 +286,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>16.8271</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -314,25 +314,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-6.83684" y="-12.5577"/>
-            <text>Romans 8:35,38-39</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="18.4592" y="-14.8887"/>
-            <text>Wer will uns scheiden? SWV 330</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="91.0457" y="-14.0584"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>1.6666666666666667</tempo>
             <followText>1</followText>

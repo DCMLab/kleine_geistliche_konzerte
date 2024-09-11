@@ -283,10 +283,6 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox>
-        <height>6</height>
-        <boxAutoSize>0</boxAutoSize>
-        </VBox>
       <Measure>
         <voice>
           <TimeSig>
@@ -306,26 +302,6 @@
               <Node pos="44" action="512"/>
               </Groups>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="21.4988" y="-15.2372"/>
-            <text>Allein Gott in der Höh, SWV 327</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="93.3997" y="-14.4603"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-13.4466" y="-15.9908"/>
-            <text>Nikolaus Decius
-(1485-1541)</text>
-            </StaffText>
           <Tempo>
             <tempo>3.3333333333333335</tempo>
             <followText>1</followText>

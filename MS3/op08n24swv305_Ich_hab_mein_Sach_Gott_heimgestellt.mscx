@@ -304,7 +304,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>14.187</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -332,19 +332,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="13.0016" y="-15.4189"/>
-            <text>Ich hab mein Sach, SWV 305</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="88.2957" y="-13.4379"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>2.8333333333333335</tempo>
             <followText>1</followText>

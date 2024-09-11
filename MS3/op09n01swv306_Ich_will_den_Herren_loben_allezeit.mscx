@@ -226,7 +226,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>14.8599</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -254,25 +254,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="15.0322" y="-19.2059"/>
-            <text>Ich will den Herren loben, SWV 306</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="89.5082" y="-17.1242"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-8.53243" y="-15.9928"/>
-            <text>Psalm 34:2-5, 7b</text>
-            </StaffText>
           <Tempo>
             <tempo>2</tempo>
             <followText>1</followText>
