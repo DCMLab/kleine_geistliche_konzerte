@@ -226,10 +226,6 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox>
-        <height>6</height>
-        <boxAutoSize>0</boxAutoSize>
-        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -239,19 +235,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="11.6921" y="-14.3925"/>
-            <text>O süsser, o freundlicher, SWV 285</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="83.0139" y="-12.6068"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>2.2000000000000002</tempo>
             <followText>1</followText>
