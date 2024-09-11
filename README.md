@@ -82,7 +82,7 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 |op08n07swv288_Ihr_Heiligen,_lobsinget_dem_Herren                 |      81|   145|2.1.1   |Adrian Nagel|
 |op08n08swv289_Erhöre_mich,_wenn_ich_rufe                         |      65|   128|2.1.1   |Adrian Nagel|
 |op08n09swv290_Wohl_dem,_der_nicht_wandelt_im_Rat_der_Gottlosen   |     134|   242|2.1.1   |Adrian Nagel|
-|op08n10swv291_Schaffe_in_mir,_Gott,_ein_reines_Herz              |      68|   104|2.1.1   |Adrian Nagel|
+|op08n10swv291_Schaffe_in_mir,_Gott,_ein_reines_Herz              |      39|   104|2.1.1   |Adrian Nagel|
 |op08n11swv292_Der_Herr_schauet_vom_Himmel_auf_der_Menschen_Kinder|      81|   135|2.1.1   |Adrian Nagel|
 |op08n12swv293_Lobet_den_Herren,_der_zu_Zion_wohnet               |      80|   137|2.1.1   |Adrian Nagel|
 |op08n13swv294_Eins_bitte_ich_vom_Herren                          |      86|   165|2.1.1   |Adrian Nagel|
