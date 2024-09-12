@@ -1,9 +1,45 @@
+![Version](https://img.shields.io/github/v/release/DCMLab/kleine_geistliche_konzerte?display_name=tag)
+[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/kleine_geistliche_konzerte)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
+
+
+This is a README file for a data repository originating from the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora)
+and serves as welcome page for both 
+
+* the GitHub repo [https://github.com/DCMLab/kleine_geistliche_konzerte](https://github.com/DCMLab/kleine_geistliche_konzerte) and the corresponding
+* documentation page [https://dcmlab.github.io/kleine_geistliche_konzerte](https://dcmlab.github.io/kleine_geistliche_konzerte)
+
+For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/kleine_geistliche_konzerte/introduction).
+
+# Heinrich Schütz – Kleine Geistliche Konzerte
+
+## Scores
+
 The files are taken from http://www1.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_I,_Op._8_(Heinrich_Sch%C3%BCtz) and http://www1.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_II,_Op._9_(Heinrich_Sch%C3%BCtz). Notes by transcriber James Gibb:
 > Transcribed from the Spitta edition on IMSLP. Clefs modernised and note values halved in the triple-time sections. Musica ficta absorbed into staves.
 
 CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 
-# Volume 1
+
+## Cite as
+
+## Version history
+
+See the [GitHub releases](https://github.com/DCMLab/kleine_geistliche_konzerte/releases).
+
+## Questions, Suggestions, Corrections, Bug Reports
+
+Please [create an issue](https://github.com/DCMLab/kleine_geistliche_konzerte/issues) and/or feel free to fork and submit pull requests.
+
+## License
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+
+
+## Pieces
+
+### Volume 1
 
 |no |                       title                       |SWV|voices|registers|
 |--:|---------------------------------------------------|--:|-----:|---------|
@@ -32,7 +68,7 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 | 23|Siehe, mein Fürsprecher im Himmel                  |304|     4|SATB     |
 | 24|Ich hab mein Sach Gott heimgestellt                |305|     5|SSATB    |
 
-# Volume 2
+### Volume 2
 
 |no |                    title                    |SWV|voices|   registers   |
 |--:|---------------------------------------------|--:|-----:|---------------|
@@ -69,6 +105,15 @@ CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 | 31|Quemadmodum desiderat cervus                 |336|     5|SATTB          |
 | 32|Aufer immensam                               |337|     5|SATTB          |
 
+
+## File naming convention
+
+```regexp 
+op(?P<op>0[89])         # op 08 or 09
+n(?P<number>\d{2})      # two-digit number between 1 and 32
+swv(?P<catalog>\d{3})   # three-digit catalog number 282-337
+_(?P<title>\w+)         # title
+```
 
 ## Overview
 |                            file_name                            |measures|labels|standard| annotators |
