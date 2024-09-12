@@ -1,0 +1,29 @@
+{
+  "name": "op09n01swv306_ich_will_den_herren_loben_allezeit.chords",
+  "type": "table",
+  "path": "op09n01swv306_Ich_will_den_Herren_loben_allezeit.chords.tsv",
+  "scheme": "file",
+  "format": "tsv",
+  "mediatype": "text/tsv",
+  "encoding": "utf-8",
+  "dialect": {
+    "csv": {
+      "delimiter": "\t"
+    }
+  },
+  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/chords/6An9bMQCc6VgkA.schema.yaml",
+  "creator": {
+    "@context": "https://schema.org/",
+    "@type": "SoftwareApplication",
+    "@id": "https://pypi.org/project/ms3/",
+    "name": "ms3",
+    "description": "A parser for MuseScore 3 files and data factory for annotated music corpora.",
+    "author": {
+      "name": "Johannes Hentschel",
+      "@id": "https://orcid.org/0000-0002-1986-9545"
+    },
+    "softwareVersion": "2.5.2"
+  },
+  "git_revision": "0b9f90ce75130f31da9b62f1a4f2bd8ec6f87578",
+  "git_tag": "v2.1-10-g0b9f90c"
+}

@@ -152,25 +152,33 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q153643</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1639</metaTag>
+    <metaTag name="composed_source">https://www.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_II,_Op._9_(Heinrich_Sch%c3%bctz)</metaTag>
     <metaTag name="composed_start">1639</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Heinrich Schütz</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">7/29/2019</metaTag>
     <metaTag name="harmony_version">2.1.1</metaTag>
-    <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Kleine_geistliche_Konzerte_II%2C_Op.9_(Sch%C3%BCtz%2C_Heinrich)</metaTag>
+    <metaTag name="lyricist">Psalm 37 :25</metaTag>
+    <metaTag name="movementNumber">15</metaTag>
+    <metaTag name="movementTitle">Ich bin jung gewesen und bin alt worden</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/80f6b70e-adb1-44e8-a97d-b83205bf7426</metaTag>
     <metaTag name="originalFormat">capx</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/249188</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://www.cpdl.org/wiki/index.php/Ich_bin_jung_gewesen_und_bin_alt_worden,_SWV_320_(Heinrich_Sch%C3%BCtz)</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">James Gibb</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/212885053</metaTag>
+    <metaTag name="workNumber">Op. 9, SWV 320</metaTag>
+    <metaTag name="workTitle">Kleine geistliche Konzerte II</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -184,6 +192,7 @@
         <trackName></trackName>
         <instrumentId>wind.group</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -206,6 +215,7 @@
         <trackName></trackName>
         <instrumentId>wind.group</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -224,6 +234,7 @@
         <trackName></trackName>
         <instrumentId>strings.cello</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
@@ -236,8 +247,24 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>12.2861</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Ich bin jung gewesen und bin alt worden</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte II, Op. 9, SWV 320</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Psalm 37 :25</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -248,25 +275,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-4.27098" y="-13.9361"/>
-            <text>Psalm 37:25</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="14.3525" y="-15.2793"/>
-            <text>Ich bin jung gewesen, SWV 320</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="84.16" y="-14.1304"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>2.3999999999999999</tempo>
             <followText>1</followText>

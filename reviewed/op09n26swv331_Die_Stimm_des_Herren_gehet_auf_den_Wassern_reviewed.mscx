@@ -152,25 +152,33 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q153643</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1639</metaTag>
+    <metaTag name="composed_source">https://www.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_II,_Op._9_(Heinrich_Sch%c3%bctz)</metaTag>
     <metaTag name="composed_start">1639</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Heinrich Schütz</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">7/29/2019</metaTag>
     <metaTag name="harmony_version">2.1.1</metaTag>
-    <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Kleine_geistliche_Konzerte_II%2C_Op.9_(Sch%C3%BCtz%2C_Heinrich)</metaTag>
+    <metaTag name="lyricist">Psalm 29 :3-9</metaTag>
+    <metaTag name="movementNumber">26</metaTag>
+    <metaTag name="movementTitle">Die Stimm des Herren gehet auf den Wassern</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/fda320b6-d171-43f3-a2ae-982077cfa8b7</metaTag>
     <metaTag name="originalFormat">capx</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/249204</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://www.cpdl.org/wiki/index.php/Die_Stimm_des_Herren_gehet_auf_den_Wassern,_SWV_331_(Heinrich_Sch%C3%BCtz)</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">James Gibb</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/294111997</metaTag>
+    <metaTag name="workNumber">Op. 9, SWV 331</metaTag>
+    <metaTag name="workTitle">Kleine geistliche Konzerte II</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -185,6 +193,7 @@
         <trackName></trackName>
         <instrumentId>voice.soprano</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -208,6 +217,7 @@
         <trackName></trackName>
         <instrumentId>voice.alto</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -226,6 +236,7 @@
         <trackName></trackName>
         <instrumentId>voice.tenor</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -244,6 +255,7 @@
         <trackName></trackName>
         <instrumentId>voice.bass</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -261,6 +273,7 @@
         <trackName></trackName>
         <instrumentId>strings.cello</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
@@ -273,8 +286,24 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>15.5601</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Die Stimm des Herren gehet auf den Wassern</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte II, Op. 9, SWV 331</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Psalm 29 :3-9</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -282,25 +311,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-6.31888" y="-9.17368"/>
-            <text>Psalm 29:3-9</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="17.2578" y="-16.4447"/>
-            <text>Die Stimm des Herren, SWV 331</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="94.3183" y="-15.4843"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>1.6666666666666667</tempo>
             <followText>1</followText>
@@ -17079,13 +17089,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>ii</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>

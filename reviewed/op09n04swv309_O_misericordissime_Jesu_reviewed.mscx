@@ -152,25 +152,33 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q153643</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1639</metaTag>
+    <metaTag name="composed_source">https://www.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_II,_Op._9_(Heinrich_Sch%c3%bctz)</metaTag>
     <metaTag name="composed_start">1639</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Heinrich Schütz</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">7/29/2019</metaTag>
     <metaTag name="harmony_version">2.1.1</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Kleine_geistliche_Konzerte_II%2C_Op.9_(Sch%C3%BCtz%2C_Heinrich)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">4</metaTag>
+    <metaTag name="movementTitle">O misericordissime Jesu</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/852c50b6-5644-4d00-aa81-93c5d4e8ea4c</metaTag>
     <metaTag name="originalFormat">capx</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/249177</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://www.cpdl.org/wiki/index.php/O_misericordissime_Jesu,_SWV_309_(Heinrich_Sch%C3%BCtz)</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">James Gibb</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/183605678</metaTag>
+    <metaTag name="workNumber">Op. 9, SWV 309</metaTag>
+    <metaTag name="workTitle">Kleine geistliche Konzerte II</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -224,8 +232,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>14.5235</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>O misericordissime Jesu</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte II, Op. 9, SWV 309</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -237,19 +257,6 @@
             <sigN>2</sigN>
             <sigD>2</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="9.09171" y="-14.4088"/>
-            <text>O misericordissime Jesu, SWV 309</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="89.1012" y="-13.8453"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <Tempo>
             <tempo>2.7999999999999998</tempo>
             <followText>1</followText>
@@ -7585,13 +7592,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>#vi</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -7714,13 +7715,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>#vi6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

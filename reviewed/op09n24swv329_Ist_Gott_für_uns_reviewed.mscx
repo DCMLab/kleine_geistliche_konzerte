@@ -152,25 +152,33 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q153643</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1639</metaTag>
+    <metaTag name="composed_source">https://www.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_II,_Op._9_(Heinrich_Sch%c3%bctz)</metaTag>
     <metaTag name="composed_start">1639</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Heinrich Schütz</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">7/29/2019</metaTag>
     <metaTag name="harmony_version">2.1.1</metaTag>
-    <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Kleine_geistliche_Konzerte_II%2C_Op.9_(Sch%C3%BCtz%2C_Heinrich)</metaTag>
+    <metaTag name="lyricist">Romans 8:31b-34</metaTag>
+    <metaTag name="movementNumber">24</metaTag>
+    <metaTag name="movementTitle">Ist Gott für uns</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/735ba2f4-96f1-43df-a591-cc56c1fd681a</metaTag>
     <metaTag name="originalFormat">capx</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/249202</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://www.cpdl.org/wiki/index.php/Ist_Gott_f%C3%BCr_uns,_SWV_329_(Heinrich_Sch%C3%BCtz)</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">James Gibb</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/178552490</metaTag>
+    <metaTag name="workNumber">Op. 9, SWV 329</metaTag>
+    <metaTag name="workTitle">Kleine geistliche Konzerte II</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -184,6 +192,7 @@
         <trackName></trackName>
         <instrumentId>voice.soprano</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -206,6 +215,7 @@
         <trackName></trackName>
         <instrumentId>voice.alto</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -225,6 +235,7 @@
         <trackName></trackName>
         <instrumentId>voice.tenor</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -244,6 +255,7 @@
         <trackName></trackName>
         <instrumentId>voice.bass</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
@@ -262,6 +274,7 @@
         <trackName></trackName>
         <instrumentId>strings.cello</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
@@ -273,10 +286,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox>
-        <height>6</height>
-        <boxAutoSize>0</boxAutoSize>
-        </VBox>
+      <VBox/>
       <Measure>
         <voice>
           <KeySig>
@@ -286,25 +296,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="44.7893" y="-13.5967"/>
-            <text>Ist Gott für uns, SWV 329</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-18.9325" y="-13.6773"/>
-            <text>Romans 8:31b-34</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="104.406" y="-17.0443"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <StaffText>
             <placement>below</placement>
             <family>Times New Roman</family>
