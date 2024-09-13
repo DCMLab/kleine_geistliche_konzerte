@@ -14,15 +14,14 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 # Heinrich Schütz – Kleine Geistliche Konzerte
 
+These "Small Sacred Concertos" are not virtuosic solo instrumental pieces with orchestral support like most concertos we know. Rather, in early-seventeenth-century repertoire, "Concerto" means a short piece of indeterminate form for some combination of voices and instruments: a mixture of contrasting timbres in concert. Schütz, whose music arguably sits directly on the cusp of Renaissance and Baroque, found an immense variety of musical possibilities in this genre, incorporating everything from virtuosic solo arias and imitative modal counterpoint to dramatic choruses. This is some of the oldest music represented in the DCML corpora, so the harmonic successions found in the annotations do not often reflect what we would today think of as conventional tonal syntax. There may be significant potential for future research in quantitative investigation of the ways expected chord succession changed in the century or so after these pieces were completed. 
+
 ## Scores
 
 The files are taken from http://www1.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_I,_Op._8_(Heinrich_Sch%C3%BCtz) and http://www1.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_II,_Op._9_(Heinrich_Sch%C3%BCtz). Notes by transcriber James Gibb:
 > Transcribed from the Spitta edition on IMSLP. Clefs modernised and note values halved in the triple-time sections. Musica ficta absorbed into staves.
 
 CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
-
-
-## Cite as
 
 ## Version history
 
