@@ -152,25 +152,33 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q153643</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1639</metaTag>
+    <metaTag name="composed_source">https://www.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_II,_Op._9_(Heinrich_Sch%c3%bctz)</metaTag>
     <metaTag name="composed_start">1639</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Heinrich Schütz</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">7/29/2019</metaTag>
     <metaTag name="harmony_version">2.1.1</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Kleine_geistliche_Konzerte_II%2C_Op.9_(Sch%C3%BCtz%2C_Heinrich)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">32</metaTag>
+    <metaTag name="movementTitle">Aufer immensam</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/0f0c9b44-f383-42b9-a179-362bba3c1c82</metaTag>
     <metaTag name="originalFormat">capx</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/249211</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://www.cpdl.org/wiki/index.php/Aufer_immensam,_SWV_337_(Heinrich_Sch%C3%BCtz)</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">James Gibb</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/5402163513791511230001</metaTag>
+    <metaTag name="workNumber">Op. 9, SWV 337</metaTag>
+    <metaTag name="workTitle">Kleine geistliche Konzerte II</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -297,8 +305,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>13.1384</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Aufer immensam</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte II, Op. 9, SWV 337</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -307,19 +327,6 @@
             <sigN>2</sigN>
             <sigD>2</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="87.2172" y="-12.7876"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="16.2172" y="-13.6293"/>
-            <text>Aufer immensam, SWV 337</text>
-            </StaffText>
           <Tempo>
             <tempo>2.3999999999999999</tempo>
             <followText>1</followText>
@@ -32774,13 +32781,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>vii%43/III</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>

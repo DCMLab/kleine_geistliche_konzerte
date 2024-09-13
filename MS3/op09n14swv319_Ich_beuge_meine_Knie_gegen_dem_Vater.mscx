@@ -152,25 +152,32 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q153643</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1639</metaTag>
+    <metaTag name="composed_source">https://www.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_II,_Op._9_(Heinrich_Sch%c3%bctz)</metaTag>
     <metaTag name="composed_start">1639</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Heinrich Schütz</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">7/29/2019</metaTag>
     <metaTag name="harmony_version">2.1.1</metaTag>
-    <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Kleine_geistliche_Konzerte_II%2C_Op.9_(Sch%C3%BCtz%2C_Heinrich)</metaTag>
+    <metaTag name="lyricist">Ephesians 3:14-17a</metaTag>
+    <metaTag name="movementNumber">14</metaTag>
+    <metaTag name="movementTitle">Ich beuge meine Knie gegen dem Vater</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/63cb44eb-bc63-487f-a819-df2f1054c4ee</metaTag>
     <metaTag name="originalFormat">capx</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/249187</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://www.cpdl.org/wiki/index.php/Ich_beuge_meine_Knie_gegen_dem_Vater,_SWV_319_(Heinrich_Sch%C3%BCtz)</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">James Gibb</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/5759158982603656190006</metaTag>
+    <metaTag name="workNumber">Op. 9, SWV 319</metaTag>
+    <metaTag name="workTitle">Kleine geistliche Konzerte II</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -243,8 +250,24 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>13.7384</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Ich beuge meine Knie gegen dem Vater</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte II, Op. 9, SWV 319</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Ephesians 3:14-17a</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -252,30 +275,11 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="18.1624" y="-16.1849"/>
-            <text>Ich beuge meine Knie, SWV 319</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="92.2806" y="-15.7012"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-1.89191" y="-8.87048"/>
-            <text>Ephesians 3:14-17a</text>
-            </StaffText>
           <Tempo>
             <tempo>2.6666666666666665</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 160</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 160</b></text>
             </Tempo>
           <Chord>
             <durationType>whole</durationType>

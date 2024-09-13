@@ -152,25 +152,32 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q153643</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1639</metaTag>
+    <metaTag name="composed_source">https://www.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_II,_Op._9_(Heinrich_Sch%c3%bctz)</metaTag>
     <metaTag name="composed_start">1639</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Heinrich Schütz</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">7/29/2019</metaTag>
     <metaTag name="harmony_version">2.1.1</metaTag>
-    <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Kleine_geistliche_Konzerte_II%2C_Op.9_(Sch%C3%BCtz%2C_Heinrich)</metaTag>
+    <metaTag name="lyricist">Erasmus Alberus</metaTag>
+    <metaTag name="movementNumber">11</metaTag>
+    <metaTag name="movementTitle">Wann unsre Augen schlafen ein</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/f84338ec-e557-4330-b2b1-4bd64bfd7527</metaTag>
     <metaTag name="originalFormat">capx</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/249184</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://www.cpdl.org/wiki/index.php/Wann_unsre_Augen_schlafen_ein,_SWV_316_(Heinrich_Sch%C3%BCtz)</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">James Gibb</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/175770913</metaTag>
+    <metaTag name="workNumber">Op. 9, SWV 316</metaTag>
+    <metaTag name="workTitle">Kleine geistliche Konzerte II</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -238,8 +245,24 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>13.5646</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Wann unsre Augen schlafen ein</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte II, Op. 9, SWV 316</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Erasmus Alberus</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -250,32 +273,12 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="11.3576" y="-18.2942"/>
-            <text>Wann unsre Augen schlafe ein, SWV 316</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="85.0452" y="-17.1787"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-17.0371" y="-15.6627"/>
-            <text>Erasmus Alberus
-(c.1500-53)</text>
-            </StaffText>
           <Tempo>
             <tempo>2.2000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="2.23079" y="-6.26478"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 132</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 132</b></text>
             </Tempo>
           <Chord>
             <durationType>half</durationType>

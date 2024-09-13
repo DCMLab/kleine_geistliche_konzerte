@@ -152,25 +152,32 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q153643</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1636</metaTag>
+    <metaTag name="composed_source">https://www.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_I,_Op._8_(Heinrich_Sch%c3%bctz)</metaTag>
     <metaTag name="composed_start">1636</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Heinrich Schütz</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">7/10/2019</metaTag>
     <metaTag name="harmony_version">2.1.1</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Kleine_geistliche_Konzerte_I,_Op.8_(Sch%C3%BCtz,_Heinrich)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">5</metaTag>
+    <metaTag name="movementTitle">Der Herr ist gross</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/ab7c8d8d-61d8-4532-b4f5-c1a92fc3907e</metaTag>
     <metaTag name="originalFormat">capx</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/249135</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://www.cpdl.org/wiki/index.php/Der_Herr_ist_gross,_SWV_286_(Heinrich_Sch%C3%BCtz)</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">James Gibb</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/210942667</metaTag>
+    <metaTag name="workNumber">Op. 8, SWV 286</metaTag>
+    <metaTag name="workTitle">Kleine geistliche Konzerte I</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -238,8 +245,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>6</height>
+        <height>14.2039</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Der Herr ist gross</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Kleine geistliche Konzerte I, Op. 8, SWV 286</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Heinrich Schütz</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -247,19 +266,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="10.4796" y="-16.3277"/>
-            <text>Der Herr ist gross und sehr löblich, SWV 286</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="87.3943" y="-11.757"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
           <StaffText>
             <family>Times New Roman</family>
             <size>11</size>

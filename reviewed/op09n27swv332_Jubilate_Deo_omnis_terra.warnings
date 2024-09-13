@@ -1,5 +1,5 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-WARNING  ms3.Parse.kleine_geistliche_konzerte.op09n27swv332_Jubilate_Deo_omnis_terra
-	mc 8: The missing value in 'voice/KeySig/accidental' was replaced by '-1', present in 'staff' [4].
+COMPETING_MEASURE_INFO_WARNING (9, 'mc', 8, 'voice/KeySig/accidental') ms3.Parse.kleine_geistliche_konzerte.op09n27swv332_Jubilate_Deo_omnis_terra
+	mc 8: The missing value in 'voice/KeySig/accidental' was filled with '-1', present in 'staff' [4]. In rare cases, this may lead to incorrect values in the measures table because it ambiguous which staff contains the relevant information.

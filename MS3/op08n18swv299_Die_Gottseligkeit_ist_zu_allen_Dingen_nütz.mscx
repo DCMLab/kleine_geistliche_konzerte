@@ -152,25 +152,32 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q153643</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1636</metaTag>
+    <metaTag name="composed_source">https://www.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_I,_Op._8_(Heinrich_Sch%c3%bctz)</metaTag>
     <metaTag name="composed_start">1636</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Heinrich Schütz</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">7/10/2019</metaTag>
     <metaTag name="harmony_version">2.1.1</metaTag>
-    <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Kleine_geistliche_Konzerte_I,_Op.8_(Sch%C3%BCtz,_Heinrich)</metaTag>
+    <metaTag name="lyricist">1 Timothy 4:8b</metaTag>
+    <metaTag name="movementNumber">18</metaTag>
+    <metaTag name="movementTitle">Die Gottseligkeit ist zu allen Dingen nütz</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/7cf65700-b2ce-4dd9-a762-777804ca90e3</metaTag>
     <metaTag name="originalFormat">capx</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/249148</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://www.cpdl.org/wiki/index.php/Die_Gottseligkeit_ist_zu_allen_Dingen_n%C3%BCtz,_SWV_299_(Heinrich_Sch%C3%BCtz)</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">James Gibb</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/4052159477895127990005</metaTag>
+    <metaTag name="workNumber">Op. 8, SWV 299</metaTag>
+    <metaTag name="workTitle">Kleine geistliche Konzerte I</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -258,10 +265,6 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox>
-        <height>6</height>
-        <boxAutoSize>0</boxAutoSize>
-        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -271,25 +274,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>19</size>
-            <offset x="18.9651" y="-13.4712"/>
-            <text>Die Gottseligkeit, SWV 299</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="87.1585" y="-12.3092"/>
-            <text>Heinrich Schütz
-(1585-1672)</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="-4.02181" y="-9.44248"/>
-            <text>1 Timothy 4:8b</text>
-            </StaffText>
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>
