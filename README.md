@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/kleine_geistliche_konzerte?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://doi.org/{{ concept_doi }})
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/kleine_geistliche_konzerte)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -12,16 +12,72 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/kleine_geistliche_konzerte/introduction).
 
-# Heinrich Schütz – Kleine Geistliche Konzerte
+# Heinrich Schütz – Kleine Geistliche Konzerte (A corpus of annotated scores)
 
-These "Small Sacred Concertos" are not virtuosic solo instrumental pieces with orchestral support like most concertos we know. Rather, in early-seventeenth-century repertoire, "Concerto" means a short piece of indeterminate form for some combination of voices and instruments: a mixture of contrasting timbres in concert. Schütz, whose music arguably sits directly on the cusp of Renaissance and Baroque, found an immense variety of musical possibilities in this genre, incorporating everything from virtuosic solo arias and imitative modal counterpoint to dramatic choruses. This is some of the oldest music represented in the DCML corpora, so the harmonic successions found in the annotations do not often reflect what we would today think of as conventional tonal syntax. There may be significant potential for future research in quantitative investigation of the ways expected chord succession changed in the century or so after these pieces were completed. 
+These "Small Sacred Concertos" are not virtuosic solo instrumental pieces with orchestral support like most concertos we
+know. Rather, in early-seventeenth-century repertoire, "Concerto" means a short piece of indeterminate form for some
+combination of voices and instruments: a mixture of contrasting timbres in concert. Schütz, whose music arguably sits
+directly on the cusp of Renaissance and Baroque, found an immense variety of musical possibilities in this genre,
+incorporating everything from virtuosic solo arias and imitative modal counterpoint to dramatic choruses. This is some
+of the oldest music represented in the DCML corpora, so the harmonic successions found in the annotations do not often
+reflect what we would today think of as conventional tonal syntax. There may be significant potential for future
+research in quantitative investigation of the ways expected chord succession changed in the century or so after these
+pieces were completed.
 
-## Scores
+## Getting the data
 
-The files are taken from http://www1.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_I,_Op._8_(Heinrich_Sch%C3%BCtz) and http://www1.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_II,_Op._9_(Heinrich_Sch%C3%BCtz). Notes by transcriber James Gibb:
-> Transcribed from the Spitta edition on IMSLP. Clefs modernised and note values halved in the triple-time sections. Musica ficta absorbed into staves.
+* download repository as a [ZIP file](https://github.com/DCMLab/kleine_geistliche_konzerte/archive/main.zip)
+* download a [Frictionless Datapackage](https://specs.frictionlessdata.io/data-package/) that includes concatenations
+  of the TSV files in the four folders (`measures`, `notes`, `chords`, and `harmonies`) and a JSON descriptor:
+  * [kleine_geistliche_konzerte.zip](https://github.com/DCMLab/kleine_geistliche_konzerte/releases/latest/download/kleine_geistliche_konzerte.zip)
+  * [kleine_geistliche_konzerte.datapackage.json](https://github.com/DCMLab/kleine_geistliche_konzerte/releases/latest/download/kleine_geistliche_konzerte.datapackage.json)
+* clone the repo: `git clone https://github.com/DCMLab/kleine_geistliche_konzerte.git` 
 
-CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
+
+## Data Formats
+
+Each piece in this corpus is represented by five files with identical name prefixes, each in its own folder. 
+For example, the first concerto, Eile mich, Gott, zu erretten, of the first volume, Op. 8 has the following files:
+
+* `MS3/op08n01swv282_Eile_mich,_Gott,_zu_erretten.mscx`: Uncompressed MuseScore 3.6.2 file including the music and annotation labels.
+* `notes/op08n01swv282_Eile_mich,_Gott,_zu_erretten.notes.tsv`: A table of all note heads contained in the score and their relevant features (not each of them represents an onset, some are tied together)
+* `measures/op08n01swv282_Eile_mich,_Gott,_zu_erretten.measures.tsv`: A table with relevant information about the measures in the score.
+* `chords/op08n01swv282_Eile_mich,_Gott,_zu_erretten.chords.tsv`: A table containing layer-wise unique onset positions with the musical markup (such as dynamics, articulation, lyrics, figured bass, etc.).
+* `harmonies/op08n01swv282_Eile_mich,_Gott,_zu_erretten.harmonies.tsv`: A table of the included harmony labels (including cadences and phrases) with their positions in the score.
+
+Each TSV file comes with its own JSON descriptor that describes the meanings and datatypes of the columns ("fields") it contains,
+follows the [Frictionless specification](https://specs.frictionlessdata.io/tabular-data-resource/),
+and can be used to validate and correctly load the described file. 
+
+### Opening Scores
+
+After navigating to your local copy, you can open the scores in the folder `MS3` with the free and open source score
+editor [MuseScore](https://musescore.org). Please note that the scores have been edited, annotated and tested with
+[MuseScore 3.6.2](https://github.com/musescore/MuseScore/releases/tag/v3.6.2). 
+MuseScore 4 has since been released which renders them correctly but cannot store them back in the same format.
+
+### Opening TSV files in a spreadsheet
+
+Tab-separated value (TSV) files are like Comma-separated value (CSV) files and can be opened with most modern text
+editors. However, for correctly displaying the columns, you might want to use a spreadsheet or an addon for your
+favourite text editor. When you use a spreadsheet such as Excel, it might annoy you by interpreting fractions as
+dates. This can be circumvented by using `Data --> From Text/CSV` or the free alternative
+[LibreOffice Calc](https://www.libreoffice.org/download/download/). Other than that, TSV data can be loaded with
+every modern programming language.
+
+### Loading TSV files in Python
+
+Since the TSV files contain null values, lists, fractions, and numbers that are to be treated as strings, you may want
+to use this code to load any TSV files related to this repository (provided you're doing it in Python). After a quick
+`pip install -U ms3` (requires Python 3.10 or later) you'll be able to load any TSV like this:
+
+```python
+import ms3
+
+labels = ms3.load_tsv("harmonies/op08n01swv282_Eile_mich,_Gott,_zu_erretten.harmonies.tsv")
+notes = ms3.load_tsv("notes/op08n01swv282_Eile_mich,_Gott,_zu_erretten.notes.tsv")
+```
+
 
 ## Version history
 
@@ -31,9 +87,15 @@ See the [GitHub releases](https://github.com/DCMLab/kleine_geistliche_konzerte/r
 
 Please [create an issue](https://github.com/DCMLab/kleine_geistliche_konzerte/issues) and/or feel free to fork and submit pull requests.
 
+## Cite as
+
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Heinrich Schütz – Kleine Geistliche Konzerte (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/{{ concept_doi }}
+
 ## License
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+
+![cc-by-nc-sa-image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
 
 
 ## Pieces
@@ -104,6 +166,13 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 | 31|Quemadmodum desiderat cervus                 |336|     5|SATTB          |
 | 32|Aufer immensam                               |337|     5|SATTB          |
 
+
+## Scores
+
+The files are taken from http://www1.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_I,_Op._8_(Heinrich_Sch%C3%BCtz) and http://www1.cpdl.org/wiki/index.php/Kleine_geistliche_Konzerte_II,_Op._9_(Heinrich_Sch%C3%BCtz). Notes by transcriber James Gibb:
+> Transcribed from the Spitta edition on IMSLP. Clefs modernised and note values halved in the triple-time sections. Musica ficta absorbed into staves.
+
+CAPX files have been renamed and converted to MSCX using MuseScore 2.3.2
 
 ## File naming convention
 
