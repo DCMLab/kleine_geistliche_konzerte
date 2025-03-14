@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/kleine_geistliche_konzerte?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://doi.org/{{ concept_doi }})
+[![DOI](https://zenodo.org/badge/199447268.svg)](https://doi.org/10.5281/zenodo.14997003)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/kleine_geistliche_konzerte)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -89,7 +89,7 @@ Please [create an issue](https://github.com/DCMLab/kleine_geistliche_konzerte/is
 
 ## Cite as
 
-> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Heinrich Schütz – Kleine Geistliche Konzerte (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/{{ concept_doi }}
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Heinrich Schütz – Kleine Geistliche Konzerte (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14997003
 
 ## License
 
