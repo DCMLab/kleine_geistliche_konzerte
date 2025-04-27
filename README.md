@@ -12,6 +12,11 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/kleine_geistliche_konzerte/introduction).
 
+When you use (parts of) this dataset in your work, please read and cite the accompanying data report:
+
+_Hentschel, J., Rammos, Y., Neuwirth, M., & Rohrmeier, M. (2025). A corpus and a modular infrastructure for the 
+empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z_
+
 # Heinrich Schütz – Kleine Geistliche Konzerte (A corpus of annotated scores)
 
 These "Small Sacred Concertos" are not virtuosic solo instrumental pieces with orchestral support like most concertos we
@@ -89,7 +94,7 @@ Please [create an issue](https://github.com/DCMLab/kleine_geistliche_konzerte/is
 
 ## Cite as
 
-> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Heinrich Schütz – Kleine Geistliche Konzerte (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14997003
+> Hentschel, J., Rammos, Y., Neuwirth, M., & Rohrmeier, M. (2025). A corpus and a modular infrastructure for the empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z
 
 ## License
 
